@@ -7,6 +7,8 @@
 //
 
 #import "NRDAppDelegate.h"
+#import "NRDMainViewController.h"
+#import "AppCoreDataManager.h"
 
 @implementation NRDAppDelegate
 
@@ -19,7 +21,12 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
+    NRDMainViewController *mainViewController = [[NRDMainViewController alloc] init];
+    self.window.rootViewController = mainViewController;
     [self.window makeKeyAndVisible];
+    
+    [[AppCoreDataManager sharedManager] managedObjectContext];
+    
     return YES;
 }
 

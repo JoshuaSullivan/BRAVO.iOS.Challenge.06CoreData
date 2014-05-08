@@ -1,0 +1,1 @@
+../../NRDCoreDataManager/NRDCoreDataManager/NSPersistentStoreCoordinator+NRDCoreDataManager.h

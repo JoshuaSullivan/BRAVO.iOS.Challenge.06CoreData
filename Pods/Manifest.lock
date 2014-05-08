@@ -1,0 +1,13 @@
+PODS:
+  - NRDCategories (1.4.0)
+  - NRDCoreDataManager (0.0.5)
+
+DEPENDENCIES:
+  - NRDCategories (~> 1.2)
+  - NRDCoreDataManager
+
+SPEC CHECKSUMS:
+  NRDCategories: ff4968fedfb2eb5721800afe4119a3db8da335ff
+  NRDCoreDataManager: b84e0e575545ce4b9acd3fd7da195d8de553b3f3
+
+COCOAPODS: 0.32.1

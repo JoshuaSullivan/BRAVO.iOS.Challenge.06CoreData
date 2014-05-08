@@ -1,0 +1,1 @@
+../../NRDCoreDataManager/NRDCoreDataManager/NRDCoreDataManager.h

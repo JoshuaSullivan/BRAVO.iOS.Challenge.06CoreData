@@ -1,0 +1,11 @@
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#endif
+
+#import "Pods-environment.h"
+// Define UBRADLog to log to NSLog when DEBUG is defined
+#ifdef DEBUG
+    #define NRDCDMDLog(...) NSLog(@"%s %@", __PRETTY_FUNCTION__, [NSString stringWithFormat:__VA_ARGS__])
+#else
+    #define NRDCDMDLog(...) do {} while (NO);
+#endif
