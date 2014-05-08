@@ -7,6 +7,7 @@
 //
 
 #import "NRDMainViewController.h"
+#import "NRDDataController.h"
 
 @interface NRDMainViewController ()
 
@@ -63,7 +64,11 @@
     
     self.initialParseStartTime = [NSDate date];
     
-    [self finishInitialParse];
+    [NRDDataController parseInitialDataWithCompletionBlock:^ (BOOL success) {
+        dispatch_async(dispatch_get_main_queue(), ^{
+            [self finishInitialParse];
+        });
+    }];
 }
 
 - (void)finishInitialParse
@@ -85,7 +90,11 @@
     
     self.updateParseStartTime = [NSDate date];
     
-    [self finishUpdateParse];
+    [NRDDataController parseInitialDataWithCompletionBlock:^ (BOOL success) {
+        dispatch_async(dispatch_get_main_queue(), ^{
+            [self finishUpdateParse];
+        });
+    }];
 }
 
 - (void)finishUpdateParse

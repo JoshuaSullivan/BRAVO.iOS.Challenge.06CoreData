@@ -27,6 +27,7 @@
 		21F99C85191BC731008D5B56 /* NRDMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21F99C83191BC731008D5B56 /* NRDMainViewController.m */; };
 		21F99C86191BC731008D5B56 /* NRDMainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 21F99C84191BC731008D5B56 /* NRDMainViewController.xib */; };
 		21F99C8A191C1CDB008D5B56 /* AppCoreDataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 21F99C89191C1CDB008D5B56 /* AppCoreDataManager.m */; };
+		21F99C8D191C2387008D5B56 /* NRDDataController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21F99C8C191C2387008D5B56 /* NRDDataController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +66,8 @@
 		21F99C84191BC731008D5B56 /* NRDMainViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NRDMainViewController.xib; sourceTree = "<group>"; };
 		21F99C88191C1CDB008D5B56 /* AppCoreDataManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppCoreDataManager.h; sourceTree = "<group>"; };
 		21F99C89191C1CDB008D5B56 /* AppCoreDataManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppCoreDataManager.m; sourceTree = "<group>"; };
+		21F99C8B191C2387008D5B56 /* NRDDataController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NRDDataController.h; sourceTree = "<group>"; };
+		21F99C8C191C2387008D5B56 /* NRDDataController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NRDDataController.m; sourceTree = "<group>"; };
 		6513153CFE76492CAF0407CE /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -224,6 +227,8 @@
 		7F464D5476B544BA8D5AB510 /* ModelControllers */ = {
 			isa = PBXGroup;
 			children = (
+				21F99C8B191C2387008D5B56 /* NRDDataController.h */,
+				21F99C8C191C2387008D5B56 /* NRDDataController.m */,
 			);
 			path = ModelControllers;
 			sourceTree = "<group>";
@@ -437,6 +442,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				21F99C8D191C2387008D5B56 /* NRDDataController.m in Sources */,
 				21F99C8A191C1CDB008D5B56 /* AppCoreDataManager.m in Sources */,
 				21F99C60191AE562008D5B56 /* BRAVO_iOS_Challenge_06CoreData.xcdatamodeld in Sources */,
 				21F99C59191AE562008D5B56 /* main.m in Sources */,
