@@ -10,6 +10,18 @@
 
 @implementation NRDDataController
 
++ (NSDictionary *)dictionaryWithContentsOfJSONString:(NSString*)fileLocation
+{
+    NSString *filePath = [[NSBundle mainBundle] pathForResource:[fileLocation stringByDeletingPathExtension] ofType:[fileLocation pathExtension]];
+    NSData* data = [NSData dataWithContentsOfFile:filePath];
+    __autoreleasing NSError* error = nil;
+    id result = [NSJSONSerialization JSONObjectWithData:data
+                                                options:kNilOptions error:&error];
+    
+    if (error != nil) return nil;
+    return result;
+}
+
 + (void)parseInitialDataWithCompletionBlock:(void (^)(BOOL success))completionBlock
 {
     completionBlock(YES);

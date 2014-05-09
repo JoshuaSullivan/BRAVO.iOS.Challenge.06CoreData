@@ -42,6 +42,7 @@
 		21F99C86191BC731008D5B56 /* NRDMainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 21F99C84191BC731008D5B56 /* NRDMainViewController.xib */; };
 		21F99C8A191C1CDB008D5B56 /* AppCoreDataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 21F99C89191C1CDB008D5B56 /* AppCoreDataManager.m */; };
 		21F99C8D191C2387008D5B56 /* NRDDataController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21F99C8C191C2387008D5B56 /* NRDDataController.m */; };
+		21F99C94191D4BFA008D5B56 /* initialSampleData.json in Resources */ = {isa = PBXBuildFile; fileRef = 21F99C93191D4BFA008D5B56 /* initialSampleData.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -82,6 +83,7 @@
 		21F99C89191C1CDB008D5B56 /* AppCoreDataManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppCoreDataManager.m; sourceTree = "<group>"; };
 		21F99C8B191C2387008D5B56 /* NRDDataController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NRDDataController.h; sourceTree = "<group>"; };
 		21F99C8C191C2387008D5B56 /* NRDDataController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NRDDataController.m; sourceTree = "<group>"; };
+		21F99C93191D4BFA008D5B56 /* initialSampleData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = initialSampleData.json; sourceTree = "<group>"; };
 		6513153CFE76492CAF0407CE /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -250,6 +252,7 @@
 		9DFD803C5D794CD5ADB63B22 /* Data */ = {
 			isa = PBXGroup;
 			children = (
+				21F99C93191D4BFA008D5B56 /* initialSampleData.json */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -374,6 +377,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				21F99C94191D4BFA008D5B56 /* initialSampleData.json in Resources */,
 				21F99C57191AE562008D5B56 /* InfoPlist.strings in Resources */,
 				21F99C62191AE562008D5B56 /* Images.xcassets in Resources */,
 				21F99C86191BC731008D5B56 /* NRDMainViewController.xib in Resources */,
