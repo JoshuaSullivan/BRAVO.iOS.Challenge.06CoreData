@@ -6,6 +6,20 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXAggregateTarget section */
+		21F99C8E191D43B5008D5B56 /* Mogenerator */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 21F99C8F191D43B5008D5B56 /* Build configuration list for PBXAggregateTarget "Mogenerator" */;
+			buildPhases = (
+				21F99C92191D43BF008D5B56 /* ShellScript */,
+			);
+			dependencies = (
+			);
+			name = Mogenerator;
+			productName = Mogenerator;
+		};
+/* End PBXAggregateTarget section */
+
 /* Begin PBXBuildFile section */
 		0908EF48245C44C0ABC68855 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 17EEF1198BD3425781C500DD /* libPods.a */; };
 		194873A4CDE04FE59F2BC33E /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 19F4E1966C554AD29071ECAF /* Settings.bundle */; };
@@ -350,6 +364,7 @@
 			targets = (
 				21F99C46191AE562008D5B56 /* BRAVO.iOS.Challenge.06CoreData */,
 				21F99C66191AE562008D5B56 /* BRAVO.iOS.Challenge.06CoreDataTests */,
+				21F99C8E191D43B5008D5B56 /* Mogenerator */,
 			);
 		};
 /* End PBXProject section */
@@ -390,6 +405,19 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "echo \"${TARGET_BUILD_DIR}\"\nbuildPlist=\"${TARGET_BUILD_DIR}\"/\"${INFOPLIST_PATH}\"\n\n# Increment the build number to match the git version\nsvnRevision=`git log --oneline | wc -l`\n/usr/libexec/PlistBuddy -c \"Set :CFBundleVersion $svnRevision\" \"$buildPlist\"\n\nbundleVersion=$(/usr/libexec/PlistBuddy -c \"Print CFBundleVersion\" \"$buildPlist\")\nbundleShortVersionString=$(/usr/libexec/PlistBuddy -c \"Print CFBundleShortVersionString\" \"$buildPlist\")\n\n# Update the Settings.bundle\nnewVersion=\"${bundleShortVersionString} (${bundleVersion})\"\n/usr/libexec/PlistBuddy \"${TARGET_BUILD_DIR}\"/\"${PRODUCT_NAME}.app\"/Settings.bundle/Root.plist -c \"set PreferenceSpecifiers:1:DefaultValue $newVersion\"\necho \"newVersion: ${newVersion}\"\n";
+		};
+		21F99C92191D43BF008D5B56 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "mogenerator -m BRAVO.iOS.Challenge.06CoreData/BRAVO_iOS_Challenge_06CoreData.xcdatamodeld -O BRAVO.iOS.Challenge.06CoreData/Models/Private --template-var arc=true";
 		};
 		C205B4BA198A4AFEB469F610 /* Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -647,6 +675,20 @@
 			};
 			name = Release;
 		};
+		21F99C90191D43B5008D5B56 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		21F99C91191D43B5008D5B56 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -676,6 +718,14 @@
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
+		};
+		21F99C8F191D43B5008D5B56 /* Build configuration list for PBXAggregateTarget "Mogenerator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				21F99C90191D43B5008D5B56 /* Debug */,
+				21F99C91191D43B5008D5B56 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 
