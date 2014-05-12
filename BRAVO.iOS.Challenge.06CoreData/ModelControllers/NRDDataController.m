@@ -24,6 +24,9 @@
 
 + (void)parseInitialDataWithCompletionBlock:(void (^)(BOOL success))completionBlock
 {
+    NSDictionary *jsonData = [NRDDataController dictionaryWithContentsOfJSONString:@"initialSampleData.json"];
+    NSLog(@"%@", jsonData);
+    
     completionBlock(YES);
 }
 

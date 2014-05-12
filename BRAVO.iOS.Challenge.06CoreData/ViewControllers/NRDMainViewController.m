@@ -80,6 +80,8 @@
     
     [self.centerButton setTitle:@"Start Update Parse" forState:UIControlStateNormal];
     self.centerButton.enabled = YES;
+    
+    [self.centerButton removeTarget:self action:@selector(beginUpdateParse:) forControlEvents:UIControlEventTouchUpInside];
     [self.centerButton addTarget:self action:@selector(beginUpdateParse:) forControlEvents:UIControlEventTouchUpInside];
 }
 
