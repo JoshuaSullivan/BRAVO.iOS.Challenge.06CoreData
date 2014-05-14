@@ -40,9 +40,6 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
     
-    self.bottomActivityIndicator.hidden = YES;
-    self.topActivityIndicator.hidden = YES;
-    
     [self.centerButton addTarget:self action:@selector(beginInitialParse:) forControlEvents:UIControlEventTouchUpInside];
 }
 
@@ -81,7 +78,7 @@
     [self.centerButton setTitle:@"Start Update Parse" forState:UIControlStateNormal];
     self.centerButton.enabled = YES;
     
-    [self.centerButton removeTarget:self action:@selector(beginUpdateParse:) forControlEvents:UIControlEventTouchUpInside];
+    [self.centerButton removeTarget:nil action:@selector(beginInitialParse:) forControlEvents:UIControlEventTouchUpInside];
     [self.centerButton addTarget:self action:@selector(beginUpdateParse:) forControlEvents:UIControlEventTouchUpInside];
 }
 
@@ -92,7 +89,7 @@
     
     self.updateParseStartTime = [NSDate date];
     
-    [NRDDataController parseInitialDataWithCompletionBlock:^ (BOOL success) {
+    [NRDDataController parseUpdateDataWithCompletionBlock:^ (BOOL success) {
         dispatch_async(dispatch_get_main_queue(), ^{
             [self finishUpdateParse];
         });

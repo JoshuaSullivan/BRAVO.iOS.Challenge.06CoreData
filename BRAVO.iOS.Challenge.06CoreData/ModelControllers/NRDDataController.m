@@ -24,14 +24,21 @@
 
 + (void)parseInitialDataWithCompletionBlock:(void (^)(BOOL success))completionBlock
 {
-    NSDictionary *jsonData = [NRDDataController dictionaryWithContentsOfJSONString:@"initialSampleData.json"];
-    NSLog(@"%@", jsonData);
+    dispatch_async(dispatch_get_global_queue( DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^(void){
+        NSDictionary *jsonData = [NRDDataController dictionaryWithContentsOfJSONString:@"initialSampleData.json"];
+        
+        NSLog(@"initial");
+        
+        completionBlock(YES);
+    });
     
-    completionBlock(YES);
 }
 
 + (void)parseUpdateDataWithCompletionBlock:(void (^)(BOOL success))completionBlock
 {
+    
+    NSLog(@"update");
+    
     completionBlock(YES);
 }
 
