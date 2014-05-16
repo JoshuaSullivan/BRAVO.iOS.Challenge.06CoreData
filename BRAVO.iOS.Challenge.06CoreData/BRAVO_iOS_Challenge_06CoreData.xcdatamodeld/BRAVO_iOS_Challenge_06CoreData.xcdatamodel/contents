@@ -5,8 +5,23 @@
         <attribute name="hireDate" optional="YES" attributeType="Date" syncable="YES"/>
         <attribute name="identifier" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="lastName" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="directReports" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Employee" inverseName="manager" inverseEntity="Employee" syncable="YES"/>
+        <relationship name="manager" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Employee" inverseName="directReports" inverseEntity="Employee" syncable="YES"/>
+        <relationship name="mentees" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Employee" inverseName="mentor" inverseEntity="Employee" syncable="YES"/>
+        <relationship name="mentor" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Employee" inverseName="mentees" inverseEntity="Employee" syncable="YES"/>
+        <relationship name="pbrRecords" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="PBRRecord" inverseName="employee" inverseEntity="PBRRecord" syncable="YES"/>
+    </entity>
+    <entity name="PBRRecord" representedClassName="PBRRecord" syncable="YES">
+        <attribute name="admin" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="bravo" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="client" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="identifier" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pbrDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="zero" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="employee" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Employee" inverseName="pbrRecords" inverseEntity="Employee" syncable="YES"/>
     </entity>
     <elements>
-        <element name="Employee" positionX="-63" positionY="-18" width="128" height="105"/>
+        <element name="Employee" positionX="-63" positionY="-18" width="128" height="178"/>
+        <element name="PBRRecord" positionX="-45" positionY="63" width="128" height="148"/>
     </elements>
 </model>

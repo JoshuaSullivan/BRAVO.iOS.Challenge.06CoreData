@@ -10,7 +10,7 @@
 
 @interface NRDImportOperation : NSOperation
 
-- (instancetype)initWithStore:(NSPersistentStoreCoordinator *)persistentStoreCoordinator
-                         data:(NSDictionary *)data;
+- (instancetype)initWithPrivateContext:(NSManagedObjectContext *)privateContext
+                              filename:(NSString *)filename;
 
 @end

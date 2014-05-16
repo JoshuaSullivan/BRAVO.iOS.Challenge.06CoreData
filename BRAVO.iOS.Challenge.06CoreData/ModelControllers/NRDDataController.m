@@ -7,31 +7,27 @@
 //
 
 #import "NRDDataController.h"
+#import "NRDImportOperation.h"
+#import "AppCoreDataManager.h"
 
 @implementation NRDDataController
 
-+ (NSDictionary *)dictionaryWithContentsOfJSONString:(NSString*)fileLocation
-{
-    NSString *filePath = [[NSBundle mainBundle] pathForResource:[fileLocation stringByDeletingPathExtension] ofType:[fileLocation pathExtension]];
-    NSData* data = [NSData dataWithContentsOfFile:filePath];
-    __autoreleasing NSError* error = nil;
-    id result = [NSJSONSerialization JSONObjectWithData:data
-                                                options:kNilOptions error:&error];
-    
-    if (error != nil) return nil;
-    return result;
-}
 
 + (void)parseInitialDataWithCompletionBlock:(void (^)(BOOL success))completionBlock
 {
-    dispatch_async(dispatch_get_global_queue( DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^(void){
-        NSDictionary *jsonData = [NRDDataController dictionaryWithContentsOfJSONString:@"initialSampleData.json"];
-        
-        NSLog(@"initial");
-        
-        completionBlock(YES);
-    });
+    NSLog(@"initial");
     
+    NSManagedObjectContext *privateContext = [NRDCoreDataManager secondaryPrivateQueueManagedObjectContext];
+    //privateContext.undoManager = nil;
+    
+    NRDImportOperation *importOperation = [[NRDImportOperation alloc] initWithPrivateContext:privateContext
+                                                                                    filename:@"initialSampleData.json"];
+    
+    [importOperation setCompletionBlock:^ {
+        completionBlock(YES);
+    }];
+    
+    [[NSOperationQueue mainQueue] addOperation:importOperation];
 }
 
 + (void)parseUpdateDataWithCompletionBlock:(void (^)(BOOL success))completionBlock
