@@ -1,0 +1,2104 @@
+{
+  "PBRRecords": [
+    {
+      "employeeId": "52e81d34-a21c-40a3-89a0-dc2a1ef51150",
+      "admin": 9,
+      "bravo": 15,
+      "zero": 2,
+      "client": 14,
+      "identifier": "62627b3e-05b7-4c4f-914f-d847f667379d",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "52e81d34-a21c-40a3-89a0-dc2a1ef51150",
+      "admin": 4,
+      "bravo": 4,
+      "zero": 2,
+      "client": 30,
+      "identifier": "f0255eff-37eb-4c48-b254-122b775517c4",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "023de538-3da8-453d-8902-d18deb6fb676",
+      "admin": 18,
+      "bravo": 1,
+      "zero": 13,
+      "client": 8,
+      "identifier": "d7642068-98cd-4469-be3f-e9b7eeb75e8d",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "023de538-3da8-453d-8902-d18deb6fb676",
+      "admin": 15,
+      "bravo": 2,
+      "zero": 16,
+      "client": 7,
+      "identifier": "addc5ac8-8928-48d7-943b-1acd35df9469",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "18e295b6-d23c-4a8b-a5c3-bc067c556983",
+      "admin": 0,
+      "bravo": 1,
+      "zero": 0,
+      "client": 39,
+      "identifier": "64fd36bd-9f62-4e4f-b1c0-72518041941a",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "18e295b6-d23c-4a8b-a5c3-bc067c556983",
+      "admin": 1,
+      "bravo": 5,
+      "zero": 0,
+      "client": 34,
+      "identifier": "1de73252-67f4-4dfc-ada4-572c840e06e3",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "8130ca9c-1893-4637-a495-b928c9ab74a3",
+      "admin": 0,
+      "bravo": 13,
+      "zero": 16,
+      "client": 11,
+      "identifier": "33d64b31-b0dd-4185-b12a-7fb0d91e8ce8",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "8130ca9c-1893-4637-a495-b928c9ab74a3",
+      "admin": 0,
+      "bravo": 20,
+      "zero": 1,
+      "client": 19,
+      "identifier": "e2df7513-7133-4681-8400-3642dcf89f54",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "848e4b35-b8a8-40c6-91f8-19e274b67d08",
+      "admin": 1,
+      "bravo": 5,
+      "zero": 2,
+      "client": 32,
+      "identifier": "47d3f627-515b-47a9-adef-35aba7b2e7ab",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "848e4b35-b8a8-40c6-91f8-19e274b67d08",
+      "admin": 2,
+      "bravo": 33,
+      "zero": 5,
+      "client": 0,
+      "identifier": "9a4c7827-fa9f-4621-8f19-195c9a51dd68",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "77313b3f-8011-47f2-9bc6-ee6b629a41ec",
+      "admin": 16,
+      "bravo": 10,
+      "zero": 7,
+      "client": 7,
+      "identifier": "ca41a5fc-1a9c-4d86-a6fe-457b166832f9",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "77313b3f-8011-47f2-9bc6-ee6b629a41ec",
+      "admin": 5,
+      "bravo": 5,
+      "zero": 6,
+      "client": 24,
+      "identifier": "ce59a2a9-8b45-4665-9482-55a9685b0930",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "6a94e6dc-d83c-4f90-a2c9-c92e2f326e82",
+      "admin": 2,
+      "bravo": 5,
+      "zero": 27,
+      "client": 6,
+      "identifier": "53b6ea73-83c9-400b-a419-d541538ba1b8",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "6a94e6dc-d83c-4f90-a2c9-c92e2f326e82",
+      "admin": 2,
+      "bravo": 6,
+      "zero": 9,
+      "client": 23,
+      "identifier": "36391848-14a0-4c91-b1bf-db988508dde6",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "79bfc9fd-4afb-43b4-93db-0cb7da0ab7cb",
+      "admin": 0,
+      "bravo": 16,
+      "zero": 0,
+      "client": 24,
+      "identifier": "ceaefe51-87a1-4c4a-84e0-91567605eaa6",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "79bfc9fd-4afb-43b4-93db-0cb7da0ab7cb",
+      "admin": 1,
+      "bravo": 4,
+      "zero": 2,
+      "client": 33,
+      "identifier": "b12456d4-0d46-4a3e-b867-4cac2b84e992",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "7838064a-3d31-44f5-b62d-e43132e611e1",
+      "admin": 15,
+      "bravo": 5,
+      "zero": 14,
+      "client": 6,
+      "identifier": "2df0bb71-f0cb-4c3e-b044-b0f4ba73aac9",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "7838064a-3d31-44f5-b62d-e43132e611e1",
+      "admin": 32,
+      "bravo": 2,
+      "zero": 4,
+      "client": 2,
+      "identifier": "477e48c3-558b-450f-9427-032bcbd20ba1",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "0f625401-3170-4597-8e47-7ad9d8f495ec",
+      "admin": 11,
+      "bravo": 24,
+      "zero": 0,
+      "client": 5,
+      "identifier": "63643bb6-2188-489c-9044-b7344f06aa4c",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "0f625401-3170-4597-8e47-7ad9d8f495ec",
+      "admin": 2,
+      "bravo": 2,
+      "zero": 23,
+      "client": 13,
+      "identifier": "eb39addd-e1bb-4726-8d28-c67867de02c2",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "294df12e-0349-4993-aa7f-368167aff5e8",
+      "admin": 4,
+      "bravo": 23,
+      "zero": 5,
+      "client": 8,
+      "identifier": "6128c174-f28d-43a6-8b6a-301dc35e84bc",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "294df12e-0349-4993-aa7f-368167aff5e8",
+      "admin": 0,
+      "bravo": 8,
+      "zero": 3,
+      "client": 29,
+      "identifier": "e41e1a37-0366-49a1-9fe6-89dd1bf09ed6",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "f5662dda-6f55-4fca-b39a-e0cbf446712c",
+      "admin": 6,
+      "bravo": 4,
+      "zero": 30,
+      "client": 0,
+      "identifier": "aac8c32f-012a-4719-9d56-f7414a4ac222",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "f5662dda-6f55-4fca-b39a-e0cbf446712c",
+      "admin": 1,
+      "bravo": 13,
+      "zero": 2,
+      "client": 24,
+      "identifier": "145a79ef-cfb4-402e-9622-5b9ad7bbfbf7",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "bca25b17-dc6b-4650-8dcb-7a575d46ce2e",
+      "admin": 0,
+      "bravo": 38,
+      "zero": 1,
+      "client": 1,
+      "identifier": "1b0e9f1b-97e9-492a-b75f-75b718f1e300",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "bca25b17-dc6b-4650-8dcb-7a575d46ce2e",
+      "admin": 4,
+      "bravo": 0,
+      "zero": 5,
+      "client": 31,
+      "identifier": "e7cb3ddb-5437-4363-9828-cea82e947b2f",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "d69a9b36-6d27-4198-8b94-86caa98535e8",
+      "admin": 3,
+      "bravo": 10,
+      "zero": 0,
+      "client": 27,
+      "identifier": "29c7e1ab-2956-4f2f-baca-1bdd5dd71625",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "d69a9b36-6d27-4198-8b94-86caa98535e8",
+      "admin": 0,
+      "bravo": 2,
+      "zero": 27,
+      "client": 11,
+      "identifier": "bde7ec6b-b45a-45c9-95e6-3e9e2b600525",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "4370c530-cb18-41cd-9493-edd42353c8e7",
+      "admin": 4,
+      "bravo": 25,
+      "zero": 1,
+      "client": 10,
+      "identifier": "7f485453-c221-4b69-9984-28d78fd75827",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "4370c530-cb18-41cd-9493-edd42353c8e7",
+      "admin": 1,
+      "bravo": 1,
+      "zero": 28,
+      "client": 10,
+      "identifier": "81bc873e-ea2d-418b-9772-01fc34d09dc0",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "489dcbbe-39d9-4e87-bbc3-77d58c135bb0",
+      "admin": 6,
+      "bravo": 7,
+      "zero": 7,
+      "client": 20,
+      "identifier": "6076431c-29fa-4db0-89aa-6110880d276e",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "489dcbbe-39d9-4e87-bbc3-77d58c135bb0",
+      "admin": 10,
+      "bravo": 2,
+      "zero": 2,
+      "client": 26,
+      "identifier": "e4ba7f68-ac1b-4d74-9c0d-1ba66d668bc7",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "f4438b49-d1da-45a6-8fb8-926ad90f49d5",
+      "admin": 26,
+      "bravo": 4,
+      "zero": 2,
+      "client": 8,
+      "identifier": "2baa4369-843d-4aa5-a7f0-d07ecb25cc32",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "f4438b49-d1da-45a6-8fb8-926ad90f49d5",
+      "admin": 9,
+      "bravo": 10,
+      "zero": 14,
+      "client": 7,
+      "identifier": "ee4d4f70-ab4d-4dfb-a127-481039f4474e",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "1775aa10-df1b-4745-8dd1-5760af8588cb",
+      "admin": 5,
+      "bravo": 8,
+      "zero": 3,
+      "client": 24,
+      "identifier": "43e9b969-52c6-4592-a225-8e3d87683917",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "1775aa10-df1b-4745-8dd1-5760af8588cb",
+      "admin": 0,
+      "bravo": 23,
+      "zero": 8,
+      "client": 9,
+      "identifier": "35b2b990-31ef-4d56-ba49-20dbea5777bb",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "153508a7-9b29-4059-8883-97fd678b682c",
+      "admin": 1,
+      "bravo": 11,
+      "zero": 8,
+      "client": 20,
+      "identifier": "02942f01-5afa-47a2-a003-acec0a43daa9",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "153508a7-9b29-4059-8883-97fd678b682c",
+      "admin": 1,
+      "bravo": 8,
+      "zero": 1,
+      "client": 30,
+      "identifier": "fc58a7d0-82ae-4f6f-9bca-8c90cd3d4eb8",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "15cdf3a8-91fb-4ded-b56f-cc09dc05a0ea",
+      "admin": 0,
+      "bravo": 2,
+      "zero": 1,
+      "client": 37,
+      "identifier": "3553e5b1-50cf-424c-bfd4-5d4fa9413c70",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "15cdf3a8-91fb-4ded-b56f-cc09dc05a0ea",
+      "admin": 0,
+      "bravo": 1,
+      "zero": 0,
+      "client": 39,
+      "identifier": "9fa7a115-bf71-4088-a8d2-1b44759fb2fe",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "e531f139-5c74-45ed-a97a-6df54f5c60eb",
+      "admin": 4,
+      "bravo": 26,
+      "zero": 5,
+      "client": 5,
+      "identifier": "272f3362-9b10-4a04-b3eb-476a44cfe333",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "e531f139-5c74-45ed-a97a-6df54f5c60eb",
+      "admin": 30,
+      "bravo": 5,
+      "zero": 0,
+      "client": 5,
+      "identifier": "07c54831-494e-4a29-b78f-cef739549c65",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "df4b3adf-e86e-4a7b-864a-d616c54d17da",
+      "admin": 8,
+      "bravo": 11,
+      "zero": 8,
+      "client": 13,
+      "identifier": "ddb7551f-752c-4baa-a2c0-3139328dcd7b",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "df4b3adf-e86e-4a7b-864a-d616c54d17da",
+      "admin": 3,
+      "bravo": 20,
+      "zero": 16,
+      "client": 1,
+      "identifier": "1d1e82f0-6b32-46fe-8bec-174953e2ec86",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "c6d00601-8096-403d-ab81-22e3a766a9e1",
+      "admin": 5,
+      "bravo": 10,
+      "zero": 5,
+      "client": 20,
+      "identifier": "9e3c09af-df6c-4f24-bf73-586d6eef80cd",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "c6d00601-8096-403d-ab81-22e3a766a9e1",
+      "admin": 2,
+      "bravo": 4,
+      "zero": 5,
+      "client": 29,
+      "identifier": "b5861ebc-0aef-4e4f-b96f-da073be56ed9",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "89747754-d40d-436e-92bb-36b9048a1380",
+      "admin": 1,
+      "bravo": 11,
+      "zero": 4,
+      "client": 24,
+      "identifier": "35fc22f8-f63a-4be4-98a4-2446c4e54c64",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "89747754-d40d-436e-92bb-36b9048a1380",
+      "admin": 0,
+      "bravo": 0,
+      "zero": 0,
+      "client": 40,
+      "identifier": "15a2165c-653a-49fa-a3eb-527162e8fbaa",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "bea2db2b-1d65-4856-8c4e-5673448e0e57",
+      "admin": 0,
+      "bravo": 5,
+      "zero": 2,
+      "client": 33,
+      "identifier": "9e7af730-8e2c-49cd-bc95-587cd3d18142",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "bea2db2b-1d65-4856-8c4e-5673448e0e57",
+      "admin": 0,
+      "bravo": 1,
+      "zero": 0,
+      "client": 39,
+      "identifier": "fb5d55a9-783a-47e6-b1a1-5eb511445a4a",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "c0ad6ca2-da75-4251-9abe-10aca451f055",
+      "admin": 4,
+      "bravo": 20,
+      "zero": 6,
+      "client": 10,
+      "identifier": "bdfae525-c237-4ce3-b1b0-5130dbf4215d",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "c0ad6ca2-da75-4251-9abe-10aca451f055",
+      "admin": 3,
+      "bravo": 2,
+      "zero": 16,
+      "client": 19,
+      "identifier": "31586d64-c0db-406d-9627-1683db77387a",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "8b5865a0-43cd-4889-86a1-6b4dc162befa",
+      "admin": 1,
+      "bravo": 30,
+      "zero": 3,
+      "client": 6,
+      "identifier": "4445163e-5374-45d7-9cd2-be47bfee05db",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "8b5865a0-43cd-4889-86a1-6b4dc162befa",
+      "admin": 3,
+      "bravo": 21,
+      "zero": 9,
+      "client": 7,
+      "identifier": "6265a6e8-e296-4a3a-911e-dcf23cad3244",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "a67fcf55-4a65-4acd-8705-aea24b07e4de",
+      "admin": 11,
+      "bravo": 20,
+      "zero": 6,
+      "client": 3,
+      "identifier": "3739504f-f14c-43ae-9aa4-ad6d064ebc44",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "a67fcf55-4a65-4acd-8705-aea24b07e4de",
+      "admin": 5,
+      "bravo": 21,
+      "zero": 7,
+      "client": 7,
+      "identifier": "68a56975-3a57-4322-819f-11f52f3e34af",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "253d4cf3-f7d0-4386-90cb-01a1adfe8230",
+      "admin": 0,
+      "bravo": 0,
+      "zero": 0,
+      "client": 40,
+      "identifier": "c63d8a1e-dcc6-4ce2-ba6f-a41400575674",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "253d4cf3-f7d0-4386-90cb-01a1adfe8230",
+      "admin": 19,
+      "bravo": 14,
+      "zero": 1,
+      "client": 6,
+      "identifier": "0e3b8d57-bd84-4c7a-b5a5-6de60597b187",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "e3749217-bbe6-4b92-aab5-59d94a15a006",
+      "admin": 21,
+      "bravo": 3,
+      "zero": 4,
+      "client": 12,
+      "identifier": "e6ab7cc6-eb42-4814-a8ed-a99c3fe9228d",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "e3749217-bbe6-4b92-aab5-59d94a15a006",
+      "admin": 0,
+      "bravo": 13,
+      "zero": 2,
+      "client": 25,
+      "identifier": "96b61516-3d25-47f3-b00d-41427c663b46",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "31f9f6bd-823a-4ded-801c-27a167581979",
+      "admin": 10,
+      "bravo": 1,
+      "zero": 10,
+      "client": 19,
+      "identifier": "bd35f2c4-1271-46f0-9bde-0ce55c9665f3",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "31f9f6bd-823a-4ded-801c-27a167581979",
+      "admin": 0,
+      "bravo": 23,
+      "zero": 1,
+      "client": 16,
+      "identifier": "117aea71-4a82-4e40-b089-8fec41ec1243",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "db14ff48-fb88-4edc-a018-56b41d0bdb15",
+      "admin": 0,
+      "bravo": 0,
+      "zero": 0,
+      "client": 40,
+      "identifier": "8bd560ef-c9b9-46cd-b406-fc1eff3e1f48",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "db14ff48-fb88-4edc-a018-56b41d0bdb15",
+      "admin": 6,
+      "bravo": 7,
+      "zero": 10,
+      "client": 17,
+      "identifier": "712e73fb-cfd2-43b7-861c-8a7745949bd9",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "9236ca65-a306-4ac5-9df7-12fdae2e5e38",
+      "admin": 0,
+      "bravo": 6,
+      "zero": 1,
+      "client": 33,
+      "identifier": "9141aa40-3cd1-4262-bfce-366ab386c789",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "9236ca65-a306-4ac5-9df7-12fdae2e5e38",
+      "admin": 10,
+      "bravo": 4,
+      "zero": 1,
+      "client": 25,
+      "identifier": "d62b2c72-dcec-41a2-8479-d17e70b6812a",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "c3b93c56-9e17-4848-84f8-c557fccee9c8",
+      "admin": 10,
+      "bravo": 13,
+      "zero": 0,
+      "client": 17,
+      "identifier": "1d074a12-04d9-4e93-a46a-f15f6f0bf345",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "c3b93c56-9e17-4848-84f8-c557fccee9c8",
+      "admin": 1,
+      "bravo": 37,
+      "zero": 0,
+      "client": 2,
+      "identifier": "fd0234db-bd26-44ff-b706-e2b2760e0615",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "2c5f3490-274e-42c8-8a13-de0da409a54d",
+      "admin": 0,
+      "bravo": 0,
+      "zero": 0,
+      "client": 40,
+      "identifier": "f42fc7e6-c25e-44d9-85fc-1ba2959a9490",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "2c5f3490-274e-42c8-8a13-de0da409a54d",
+      "admin": 12,
+      "bravo": 8,
+      "zero": 4,
+      "client": 16,
+      "identifier": "566f2116-6bba-4a8f-8bfe-f4aa09c463a4",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "edf8b1bf-a4ce-4c32-bc6b-665bb4d55e2b",
+      "admin": 0,
+      "bravo": 6,
+      "zero": 1,
+      "client": 33,
+      "identifier": "b192836e-816e-4618-9881-c0acf05712a7",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "edf8b1bf-a4ce-4c32-bc6b-665bb4d55e2b",
+      "admin": 0,
+      "bravo": 16,
+      "zero": 0,
+      "client": 24,
+      "identifier": "5b6fbed8-e7c7-44db-8694-a193a3bd1b94",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "095e0728-054c-483f-b44a-a6b8c5d1f235",
+      "admin": 0,
+      "bravo": 20,
+      "zero": 4,
+      "client": 16,
+      "identifier": "dab8cee8-121c-4c05-8e67-ef42a32770a5",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "095e0728-054c-483f-b44a-a6b8c5d1f235",
+      "admin": 1,
+      "bravo": 36,
+      "zero": 0,
+      "client": 3,
+      "identifier": "c8fa4b9a-7dfa-4689-8ffc-94edd3618eed",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "ecb566f2-60cf-4cdc-8489-e976499aa973",
+      "admin": 4,
+      "bravo": 4,
+      "zero": 15,
+      "client": 17,
+      "identifier": "474c7a3a-61fa-4a5a-8ce6-c7bcfcb56863",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "ecb566f2-60cf-4cdc-8489-e976499aa973",
+      "admin": 12,
+      "bravo": 3,
+      "zero": 6,
+      "client": 19,
+      "identifier": "cd88bfde-73c8-4c92-aa83-df0182944fb3",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "6bc08a2c-db9b-4e38-b873-519743b9bbbf",
+      "admin": 1,
+      "bravo": 5,
+      "zero": 8,
+      "client": 26,
+      "identifier": "8c3a00dd-a95f-4ec6-9bf3-4d8260658fc5",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "6bc08a2c-db9b-4e38-b873-519743b9bbbf",
+      "admin": 4,
+      "bravo": 12,
+      "zero": 3,
+      "client": 21,
+      "identifier": "391de2a4-50f4-4ce8-bfb9-14598ad8d7ee",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "4abe7389-40b4-4d88-81bc-3d6db3762205",
+      "admin": 8,
+      "bravo": 0,
+      "zero": 4,
+      "client": 28,
+      "identifier": "84724369-5b3a-48dd-a79b-37453f5288ae",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "4abe7389-40b4-4d88-81bc-3d6db3762205",
+      "admin": 11,
+      "bravo": 10,
+      "zero": 1,
+      "client": 18,
+      "identifier": "ff1c6d28-b6bf-4634-a8fc-7a06f9f9d0e4",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "b6573679-5f20-4d06-9f29-768921cad532",
+      "admin": 13,
+      "bravo": 19,
+      "zero": 2,
+      "client": 6,
+      "identifier": "2256f3a6-949b-4c82-9b61-c8efb4f01b56",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "b6573679-5f20-4d06-9f29-768921cad532",
+      "admin": 5,
+      "bravo": 26,
+      "zero": 5,
+      "client": 4,
+      "identifier": "0b218084-8ad5-4d45-94fb-efe8b73b018a",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "04b20d5a-16ee-463b-8ddb-1a4b449532e5",
+      "admin": 1,
+      "bravo": 20,
+      "zero": 0,
+      "client": 19,
+      "identifier": "23bfca29-84e0-4320-b1ef-cc2d3704be74",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "04b20d5a-16ee-463b-8ddb-1a4b449532e5",
+      "admin": 0,
+      "bravo": 37,
+      "zero": 0,
+      "client": 3,
+      "identifier": "1348c557-7d6d-4f56-bbc4-5f02cdbb33fd",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "c5389d19-3b2f-4c69-b1c8-14366f199776",
+      "admin": 3,
+      "bravo": 4,
+      "zero": 2,
+      "client": 31,
+      "identifier": "408ab28e-4b2f-4b4d-897b-d83fa137f116",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "c5389d19-3b2f-4c69-b1c8-14366f199776",
+      "admin": 0,
+      "bravo": 20,
+      "zero": 0,
+      "client": 20,
+      "identifier": "8dd691ba-d083-4e40-bca0-dc39ef876acd",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "dc2205d6-92bd-486f-a830-f842a79cc382",
+      "admin": 0,
+      "bravo": 14,
+      "zero": 1,
+      "client": 25,
+      "identifier": "57926e43-5189-482f-ba03-c3188212c97c",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "dc2205d6-92bd-486f-a830-f842a79cc382",
+      "admin": 2,
+      "bravo": 29,
+      "zero": 0,
+      "client": 9,
+      "identifier": "6af241c4-e8ee-4de9-94eb-383464a46f5c",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "dab4f038-cda1-40fb-9cdf-3350170a5b61",
+      "admin": 7,
+      "bravo": 4,
+      "zero": 23,
+      "client": 6,
+      "identifier": "d7053e20-b58d-47c5-820a-ed4db9d42178",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "dab4f038-cda1-40fb-9cdf-3350170a5b61",
+      "admin": 3,
+      "bravo": 10,
+      "zero": 12,
+      "client": 15,
+      "identifier": "d5fe114a-68bf-4a13-ae57-8efa7a86fbfb",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "ebb87aa1-08ba-4e5f-af0d-cf69d329b39e",
+      "admin": 0,
+      "bravo": 3,
+      "zero": 4,
+      "client": 33,
+      "identifier": "e9621df1-2082-48ca-a1a1-f1e75b42ca80",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "ebb87aa1-08ba-4e5f-af0d-cf69d329b39e",
+      "admin": 1,
+      "bravo": 9,
+      "zero": 9,
+      "client": 21,
+      "identifier": "6a0793a6-15ce-4f0d-a106-75626c2ea97d",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "ea85f2d7-d1ad-4eb8-b091-aa61e93d54c8",
+      "admin": 1,
+      "bravo": 3,
+      "zero": 1,
+      "client": 35,
+      "identifier": "17822e1c-53de-4aa8-b601-dedb83e19c4e",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "ea85f2d7-d1ad-4eb8-b091-aa61e93d54c8",
+      "admin": 3,
+      "bravo": 14,
+      "zero": 6,
+      "client": 17,
+      "identifier": "d8756da9-e9f6-4d8d-b834-125f0d4691db",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "83196dfc-3e00-4040-b1b6-88e16bd0d38d",
+      "admin": 13,
+      "bravo": 5,
+      "zero": 9,
+      "client": 13,
+      "identifier": "e7decdd7-e7a7-4b52-a2be-9040c8163222",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "83196dfc-3e00-4040-b1b6-88e16bd0d38d",
+      "admin": 8,
+      "bravo": 12,
+      "zero": 0,
+      "client": 20,
+      "identifier": "5d4f0c63-52cc-457a-8cd8-fcf6da5b34fe",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "61bf477d-06ad-403e-bf31-2c55da055a97",
+      "admin": 3,
+      "bravo": 34,
+      "zero": 2,
+      "client": 1,
+      "identifier": "52466e02-baf0-4677-a40d-bdd82dd8a35a",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "61bf477d-06ad-403e-bf31-2c55da055a97",
+      "admin": 2,
+      "bravo": 13,
+      "zero": 15,
+      "client": 10,
+      "identifier": "d7d4b198-10b9-4b2e-b4fb-cfbee0bc3426",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "1131c3b6-3989-4223-b62f-6c8e9990ba82",
+      "admin": 3,
+      "bravo": 18,
+      "zero": 1,
+      "client": 18,
+      "identifier": "783d5b87-f6a6-444a-819c-1fa9da41a903",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "1131c3b6-3989-4223-b62f-6c8e9990ba82",
+      "admin": 1,
+      "bravo": 4,
+      "zero": 0,
+      "client": 35,
+      "identifier": "985a111d-1201-43b8-947d-c99290ee71a3",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "3d5265c0-2316-4071-91a6-8677e418a3ec",
+      "admin": 0,
+      "bravo": 3,
+      "zero": 3,
+      "client": 34,
+      "identifier": "097f17a6-72a5-4a0c-98be-e69a8bdc29df",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "3d5265c0-2316-4071-91a6-8677e418a3ec",
+      "admin": 3,
+      "bravo": 22,
+      "zero": 3,
+      "client": 12,
+      "identifier": "ba1c5900-9008-4022-b21d-1e3b6c197bb5",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "e576c64b-8ef0-4904-95c2-17f14689ddf2",
+      "admin": 17,
+      "bravo": 5,
+      "zero": 1,
+      "client": 17,
+      "identifier": "9e59ec87-c6fc-4218-aef5-9e494d670180",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "e576c64b-8ef0-4904-95c2-17f14689ddf2",
+      "admin": 14,
+      "bravo": 1,
+      "zero": 9,
+      "client": 16,
+      "identifier": "020c3172-8593-4f65-91ff-e54053241ef6",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "25bae43b-3438-40c2-9028-5d617cc9a024",
+      "admin": 0,
+      "bravo": 1,
+      "zero": 0,
+      "client": 39,
+      "identifier": "74542ded-d05e-418f-b28c-30ebfafc8396",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "25bae43b-3438-40c2-9028-5d617cc9a024",
+      "admin": 0,
+      "bravo": 3,
+      "zero": 0,
+      "client": 37,
+      "identifier": "5ff174b7-ab4f-4b56-bd7c-79965e36f054",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "ff063529-c136-4fcb-ade9-fe60df48e01a",
+      "admin": 15,
+      "bravo": 18,
+      "zero": 2,
+      "client": 5,
+      "identifier": "4722c87f-dca2-456a-9f63-75675045c41d",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "ff063529-c136-4fcb-ade9-fe60df48e01a",
+      "admin": 4,
+      "bravo": 9,
+      "zero": 0,
+      "client": 27,
+      "identifier": "88dff215-1697-4b18-a33b-9e7b6c6f8e27",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "6eecf9b5-10ab-4c66-82c4-127b9662fddb",
+      "admin": 0,
+      "bravo": 0,
+      "zero": 0,
+      "client": 40,
+      "identifier": "f57d773e-0806-4fc5-93a4-6ea4f4ccc693",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "6eecf9b5-10ab-4c66-82c4-127b9662fddb",
+      "admin": 1,
+      "bravo": 34,
+      "zero": 0,
+      "client": 5,
+      "identifier": "409d0a1e-d4c5-4e73-ba92-871c79ea6b42",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "9ed4012e-169b-4ddf-8b2e-87a16c93b738",
+      "admin": 1,
+      "bravo": 0,
+      "zero": 1,
+      "client": 38,
+      "identifier": "b311a42f-4532-431d-bb2f-39bdf3fbe62b",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "9ed4012e-169b-4ddf-8b2e-87a16c93b738",
+      "admin": 26,
+      "bravo": 1,
+      "zero": 6,
+      "client": 7,
+      "identifier": "8410397c-d645-4bb9-827f-11ea9e45e840",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "75491532-f5ff-4800-b469-dd2c4bc32803",
+      "admin": 0,
+      "bravo": 9,
+      "zero": 1,
+      "client": 30,
+      "identifier": "dbe23f42-333c-45ba-82fa-b190685bc77d",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "75491532-f5ff-4800-b469-dd2c4bc32803",
+      "admin": 3,
+      "bravo": 16,
+      "zero": 1,
+      "client": 20,
+      "identifier": "d439588f-ccff-4e3a-897a-f19284720a54",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "e8d1b975-6757-4128-9d08-cfe1b3b8e986",
+      "admin": 17,
+      "bravo": 9,
+      "zero": 2,
+      "client": 12,
+      "identifier": "914b3eab-a295-4c1d-9967-354f475ff898",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "e8d1b975-6757-4128-9d08-cfe1b3b8e986",
+      "admin": 0,
+      "bravo": 22,
+      "zero": 7,
+      "client": 11,
+      "identifier": "19b69449-b54b-4be9-af5b-0ef0ec935e9e",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "a80d0791-5571-4db7-bbaa-1fa73aed66c1",
+      "admin": 0,
+      "bravo": 4,
+      "zero": 3,
+      "client": 33,
+      "identifier": "db861e90-04aa-4dd3-b63b-36e590c8e0bb",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "a80d0791-5571-4db7-bbaa-1fa73aed66c1",
+      "admin": 24,
+      "bravo": 2,
+      "zero": 10,
+      "client": 4,
+      "identifier": "c90a549a-f862-45c8-888f-ea7026f280e2",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "84a349c6-9e95-4748-9cec-577c20a1be63",
+      "admin": 1,
+      "bravo": 2,
+      "zero": 1,
+      "client": 36,
+      "identifier": "335153e3-a005-4408-9bdd-7876634c3fd5",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "84a349c6-9e95-4748-9cec-577c20a1be63",
+      "admin": 8,
+      "bravo": 1,
+      "zero": 1,
+      "client": 30,
+      "identifier": "88700527-0eb8-4b7b-b0e1-573d42f78da2",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "0eff0456-3d62-495d-a7d5-9ec180796264",
+      "admin": 6,
+      "bravo": 5,
+      "zero": 5,
+      "client": 24,
+      "identifier": "c54ef645-d4da-4849-a5e3-7c23a76dccec",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "0eff0456-3d62-495d-a7d5-9ec180796264",
+      "admin": 1,
+      "bravo": 32,
+      "zero": 5,
+      "client": 2,
+      "identifier": "3b48a025-221b-4eb2-939d-ba713da478b7",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "c0ec18ab-6f8f-4a01-b98f-bee889c4c91e",
+      "admin": 19,
+      "bravo": 8,
+      "zero": 3,
+      "client": 10,
+      "identifier": "d8a6daca-47a1-4534-b341-323f8b7c5019",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "c0ec18ab-6f8f-4a01-b98f-bee889c4c91e",
+      "admin": 0,
+      "bravo": 10,
+      "zero": 0,
+      "client": 30,
+      "identifier": "2709132d-433f-40aa-8707-42b104bdcaf7",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "f62df4be-9400-40fd-a3a2-883c63bd3329",
+      "admin": 1,
+      "bravo": 3,
+      "zero": 0,
+      "client": 36,
+      "identifier": "7cca7196-2d8f-45b9-9b23-6db335796329",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "f62df4be-9400-40fd-a3a2-883c63bd3329",
+      "admin": 1,
+      "bravo": 6,
+      "zero": 0,
+      "client": 33,
+      "identifier": "77652078-c443-4bef-9caa-0046f06a26dc",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "75f54d6f-b986-44f1-afb2-258cfe0f43ab",
+      "admin": 0,
+      "bravo": 5,
+      "zero": 0,
+      "client": 35,
+      "identifier": "f5ec246f-707f-455b-a3d3-28363c9115b2",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "75f54d6f-b986-44f1-afb2-258cfe0f43ab",
+      "admin": 9,
+      "bravo": 12,
+      "zero": 6,
+      "client": 13,
+      "identifier": "578bef5e-03e7-416b-929e-39a4c0a9d328",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "17d7f0cc-46f0-47f5-81c3-05e433edce53",
+      "admin": 1,
+      "bravo": 0,
+      "zero": 3,
+      "client": 36,
+      "identifier": "1e449ceb-aaf5-4bcc-8ac0-0cc5d3d4e08d",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "17d7f0cc-46f0-47f5-81c3-05e433edce53",
+      "admin": 7,
+      "bravo": 5,
+      "zero": 1,
+      "client": 27,
+      "identifier": "158747ae-32da-4121-9684-4a34ab04c7eb",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "e9911b1f-c8c1-4f44-bb56-5dff0c19abde",
+      "admin": 0,
+      "bravo": 2,
+      "zero": 1,
+      "client": 37,
+      "identifier": "000966d8-9af1-448d-9e07-c8639c9616a3",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "e9911b1f-c8c1-4f44-bb56-5dff0c19abde",
+      "admin": 5,
+      "bravo": 10,
+      "zero": 0,
+      "client": 25,
+      "identifier": "ffaa67a6-3a87-4783-9fe4-1fb18a4b5f18",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "45f0929a-4a3b-4df3-b1ca-0c1753289758",
+      "admin": 4,
+      "bravo": 0,
+      "zero": 9,
+      "client": 27,
+      "identifier": "74558c28-ada0-45a6-8f21-dac3fa7fb5b9",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "45f0929a-4a3b-4df3-b1ca-0c1753289758",
+      "admin": 0,
+      "bravo": 26,
+      "zero": 2,
+      "client": 12,
+      "identifier": "1b79dff8-9f47-4f2a-a6d0-192ebb7f7084",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "f20a0ba0-4b66-45a2-8b6e-9bcb0b8219fa",
+      "admin": 2,
+      "bravo": 17,
+      "zero": 11,
+      "client": 10,
+      "identifier": "dfa3eae8-5916-4304-b6d1-d4c1fae6157d",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "f20a0ba0-4b66-45a2-8b6e-9bcb0b8219fa",
+      "admin": 2,
+      "bravo": 0,
+      "zero": 7,
+      "client": 31,
+      "identifier": "7459a792-688f-4efc-b00b-5432253843b2",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "0d91f995-4d68-4304-9065-242ca0489e35",
+      "admin": 0,
+      "bravo": 2,
+      "zero": 0,
+      "client": 38,
+      "identifier": "13d7ecd8-394d-4f79-bd5f-5c07fa9b2f6b",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "0d91f995-4d68-4304-9065-242ca0489e35",
+      "admin": 0,
+      "bravo": 10,
+      "zero": 0,
+      "client": 30,
+      "identifier": "3d27c388-eebf-4fcc-8ca9-b97885db3413",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "d655e314-d54a-467b-b543-5b73e70596a5",
+      "admin": 15,
+      "bravo": 3,
+      "zero": 16,
+      "client": 6,
+      "identifier": "8e1c8c6d-391f-4337-8764-19b60240a56c",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "d655e314-d54a-467b-b543-5b73e70596a5",
+      "admin": 2,
+      "bravo": 10,
+      "zero": 2,
+      "client": 26,
+      "identifier": "426a58bf-3791-473c-84e3-957feee26b21",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "da39af56-d035-4bfc-b84e-f4d33f9c5b36",
+      "admin": 14,
+      "bravo": 9,
+      "zero": 2,
+      "client": 15,
+      "identifier": "a518b295-d111-4fc4-aaab-ac6f606f23ae",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "da39af56-d035-4bfc-b84e-f4d33f9c5b36",
+      "admin": 8,
+      "bravo": 20,
+      "zero": 12,
+      "client": 0,
+      "identifier": "8aa4537d-60b4-4cac-bdfe-c297eb43c080",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "aa3a9f06-6bb7-4361-be02-aa20a781d877",
+      "admin": 18,
+      "bravo": 4,
+      "zero": 16,
+      "client": 2,
+      "identifier": "98ddbd5b-8659-4e54-896f-b1ee9d575cb9",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "aa3a9f06-6bb7-4361-be02-aa20a781d877",
+      "admin": 6,
+      "bravo": 5,
+      "zero": 1,
+      "client": 28,
+      "identifier": "68ec0287-0b8d-458f-9d5e-e0c69b6c7496",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "a0a075c5-6a4e-4286-94ea-ec66ac10bebd",
+      "admin": 0,
+      "bravo": 23,
+      "zero": 2,
+      "client": 15,
+      "identifier": "b8406161-7897-40ff-8fed-fc67b66c34df",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "a0a075c5-6a4e-4286-94ea-ec66ac10bebd",
+      "admin": 1,
+      "bravo": 4,
+      "zero": 9,
+      "client": 26,
+      "identifier": "355f87de-3af4-4728-84b0-861a1fab93f5",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "5bfef9ca-6b7d-407d-a8a2-919dca45241d",
+      "admin": 6,
+      "bravo": 14,
+      "zero": 10,
+      "client": 10,
+      "identifier": "50256a85-5b7c-4987-9e4c-773aaa29b6fb",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "5bfef9ca-6b7d-407d-a8a2-919dca45241d",
+      "admin": 0,
+      "bravo": 1,
+      "zero": 1,
+      "client": 38,
+      "identifier": "badd0678-d8e1-415a-bd36-c4a88da45405",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "e672a67e-5065-463c-a234-79381878e30f",
+      "admin": 1,
+      "bravo": 9,
+      "zero": 18,
+      "client": 12,
+      "identifier": "bf1a781a-7a49-4c64-8094-edce8b9edcce",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "e672a67e-5065-463c-a234-79381878e30f",
+      "admin": 1,
+      "bravo": 6,
+      "zero": 3,
+      "client": 30,
+      "identifier": "0df0e051-eff4-46b9-b20e-1fd9aa1f2047",
+      "pbrDate": "01/17/2014"
+    },
+    {
+      "employeeId": "8505bccb-9648-427f-8e9b-dfaa29a2fdb8",
+      "admin": 1,
+      "bravo": 0,
+      "zero": 0,
+      "client": 39,
+      "identifier": "f8deafd6-686f-4657-a052-f2bba7f2ee79",
+      "pbrDate": "01/10/2014"
+    },
+    {
+      "employeeId": "8505bccb-9648-427f-8e9b-dfaa29a2fdb8",
+      "admin": 0,
+      "bravo": 30,
+      "zero": 4,
+      "client": 6,
+      "identifier": "67686dda-cc9d-4fbf-8553-c39da1402ac5",
+      "pbrDate": "01/17/2014"
+    }
+  ],
+  "Employees": [
+    {
+      "lastName": "Greyjoy",
+      "hireDate": "01/04/2012",
+      "identifier": "52e81d34-a21c-40a3-89a0-dc2a1ef51150",
+      "directReportIds": [
+        "77313b3f-8011-47f2-9bc6-ee6b629a41ec",
+        "294df12e-0349-4993-aa7f-368167aff5e8",
+        "489dcbbe-39d9-4e87-bbc3-77d58c135bb0",
+        "e531f139-5c74-45ed-a97a-6df54f5c60eb",
+        "c0ad6ca2-da75-4251-9abe-10aca451f055",
+        "31f9f6bd-823a-4ded-801c-27a167581979",
+        "edf8b1bf-a4ce-4c32-bc6b-665bb4d55e2b",
+        "b6573679-5f20-4d06-9f29-768921cad532",
+        "dab4f038-cda1-40fb-9cdf-3350170a5b61",
+        "1131c3b6-3989-4223-b62f-6c8e9990ba82",
+        "ff063529-c136-4fcb-ade9-fe60df48e01a",
+        "a80d0791-5571-4db7-bbaa-1fa73aed66c1",
+        "f20a0ba0-4b66-45a2-8b6e-9bcb0b8219fa"
+      ],
+      "firstName": "Tywin"
+    },
+    {
+      "lastName": "Lannister",
+      "hireDate": "10/24/2009",
+      "identifier": "023de538-3da8-453d-8902-d18deb6fb676",
+      "directReportIds": [
+        "6a94e6dc-d83c-4f90-a2c9-c92e2f326e82",
+        "f5662dda-6f55-4fca-b39a-e0cbf446712c",
+        "f4438b49-d1da-45a6-8fb8-926ad90f49d5",
+        "df4b3adf-e86e-4a7b-864a-d616c54d17da",
+        "8b5865a0-43cd-4889-86a1-6b4dc162befa",
+        "db14ff48-fb88-4edc-a018-56b41d0bdb15",
+        "095e0728-054c-483f-b44a-a6b8c5d1f235",
+        "04b20d5a-16ee-463b-8ddb-1a4b449532e5",
+        "ebb87aa1-08ba-4e5f-af0d-cf69d329b39e",
+        "6eecf9b5-10ab-4c66-82c4-127b9662fddb",
+        "84a349c6-9e95-4748-9cec-577c20a1be63",
+        "75f54d6f-b986-44f1-afb2-258cfe0f43ab",
+        "0d91f995-4d68-4304-9065-242ca0489e35"
+      ],
+      "firstName": "Thor"
+    },
+    {
+      "lastName": "Targaryen",
+      "hireDate": "03/21/2008",
+      "identifier": "18e295b6-d23c-4a8b-a5c3-bc067c556983",
+      "directReportIds": [
+        "79bfc9fd-4afb-43b4-93db-0cb7da0ab7cb",
+        "bca25b17-dc6b-4650-8dcb-7a575d46ce2e",
+        "1775aa10-df1b-4745-8dd1-5760af8588cb",
+        "c6d00601-8096-403d-ab81-22e3a766a9e1",
+        "a67fcf55-4a65-4acd-8705-aea24b07e4de",
+        "9236ca65-a306-4ac5-9df7-12fdae2e5e38",
+        "ecb566f2-60cf-4cdc-8489-e976499aa973",
+        "ea85f2d7-d1ad-4eb8-b091-aa61e93d54c8",
+        "3d5265c0-2316-4071-91a6-8677e418a3ec",
+        "9ed4012e-169b-4ddf-8b2e-87a16c93b738",
+        "0eff0456-3d62-495d-a7d5-9ec180796264",
+        "17d7f0cc-46f0-47f5-81c3-05e433edce53",
+        "d655e314-d54a-467b-b543-5b73e70596a5"
+      ],
+      "firstName": "Daenarys"
+    },
+    {
+      "lastName": "Schiller",
+      "hireDate": "07/12/2010",
+      "identifier": "8130ca9c-1893-4637-a495-b928c9ab74a3",
+      "directReportIds": [
+        "7838064a-3d31-44f5-b62d-e43132e611e1",
+        "d69a9b36-6d27-4198-8b94-86caa98535e8",
+        "153508a7-9b29-4059-8883-97fd678b682c",
+        "89747754-d40d-436e-92bb-36b9048a1380",
+        "253d4cf3-f7d0-4386-90cb-01a1adfe8230",
+        "c3b93c56-9e17-4848-84f8-c557fccee9c8",
+        "6bc08a2c-db9b-4e38-b873-519743b9bbbf",
+        "c5389d19-3b2f-4c69-b1c8-14366f199776",
+        "83196dfc-3e00-4040-b1b6-88e16bd0d38d",
+        "e576c64b-8ef0-4904-95c2-17f14689ddf2",
+        "75491532-f5ff-4800-b469-dd2c4bc32803",
+        "c0ec18ab-6f8f-4a01-b98f-bee889c4c91e",
+        "e9911b1f-c8c1-4f44-bb56-5dff0c19abde"
+      ],
+      "firstName": "Tyrion"
+    },
+    {
+      "lastName": "Thorpe",
+      "hireDate": "08/21/2011",
+      "identifier": "848e4b35-b8a8-40c6-91f8-19e274b67d08",
+      "directReportIds": [
+        "0f625401-3170-4597-8e47-7ad9d8f495ec",
+        "4370c530-cb18-41cd-9493-edd42353c8e7",
+        "15cdf3a8-91fb-4ded-b56f-cc09dc05a0ea",
+        "bea2db2b-1d65-4856-8c4e-5673448e0e57",
+        "e3749217-bbe6-4b92-aab5-59d94a15a006",
+        "2c5f3490-274e-42c8-8a13-de0da409a54d",
+        "4abe7389-40b4-4d88-81bc-3d6db3762205",
+        "dc2205d6-92bd-486f-a830-f842a79cc382",
+        "61bf477d-06ad-403e-bf31-2c55da055a97",
+        "25bae43b-3438-40c2-9028-5d617cc9a024",
+        "e8d1b975-6757-4128-9d08-cfe1b3b8e986",
+        "f62df4be-9400-40fd-a3a2-883c63bd3329",
+        "45f0929a-4a3b-4df3-b1ca-0c1753289758",
+        "da39af56-d035-4bfc-b84e-f4d33f9c5b36"
+      ],
+      "firstName": "Bertrand"
+    },
+    {
+      "menteeIds": [
+        "f4438b49-d1da-45a6-8fb8-926ad90f49d5",
+        "bea2db2b-1d65-4856-8c4e-5673448e0e57",
+        "9236ca65-a306-4ac5-9df7-12fdae2e5e38",
+        "b6573679-5f20-4d06-9f29-768921cad532",
+        "83196dfc-3e00-4040-b1b6-88e16bd0d38d",
+        "6eecf9b5-10ab-4c66-82c4-127b9662fddb",
+        "f62df4be-9400-40fd-a3a2-883c63bd3329",
+        "d655e314-d54a-467b-b543-5b73e70596a5"
+      ],
+      "firstName": "Tim",
+      "lastName": "Stark",
+      "managerId": "52e81d34-a21c-40a3-89a0-dc2a1ef51150",
+      "hireDate": "08/13/2009",
+      "identifier": "77313b3f-8011-47f2-9bc6-ee6b629a41ec"
+    },
+    {
+      "menteeIds": [
+        "1775aa10-df1b-4745-8dd1-5760af8588cb",
+        "c0ad6ca2-da75-4251-9abe-10aca451f055",
+        "c3b93c56-9e17-4848-84f8-c557fccee9c8",
+        "04b20d5a-16ee-463b-8ddb-1a4b449532e5",
+        "61bf477d-06ad-403e-bf31-2c55da055a97",
+        "9ed4012e-169b-4ddf-8b2e-87a16c93b738"
+      ],
+      "firstName": "Louis",
+      "lastName": "Baratheon",
+      "managerId": "023de538-3da8-453d-8902-d18deb6fb676",
+      "hireDate": "06/21/2010",
+      "identifier": "6a94e6dc-d83c-4f90-a2c9-c92e2f326e82"
+    },
+    {
+      "menteeIds": [
+        "153508a7-9b29-4059-8883-97fd678b682c",
+        "8b5865a0-43cd-4889-86a1-6b4dc162befa",
+        "2c5f3490-274e-42c8-8a13-de0da409a54d",
+        "1131c3b6-3989-4223-b62f-6c8e9990ba82",
+        "75491532-f5ff-4800-b469-dd2c4bc32803",
+        "75f54d6f-b986-44f1-afb2-258cfe0f43ab",
+        "da39af56-d035-4bfc-b84e-f4d33f9c5b36"
+      ],
+      "firstName": "Tim",
+      "lastName": "Thorpe",
+      "managerId": "18e295b6-d23c-4a8b-a5c3-bc067c556983",
+      "hireDate": "02/13/2011",
+      "identifier": "79bfc9fd-4afb-43b4-93db-0cb7da0ab7cb"
+    },
+    {
+      "menteeIds": [
+        "15cdf3a8-91fb-4ded-b56f-cc09dc05a0ea",
+        "a67fcf55-4a65-4acd-8705-aea24b07e4de",
+        "edf8b1bf-a4ce-4c32-bc6b-665bb4d55e2b",
+        "c5389d19-3b2f-4c69-b1c8-14366f199776",
+        "e8d1b975-6757-4128-9d08-cfe1b3b8e986",
+        "17d7f0cc-46f0-47f5-81c3-05e433edce53"
+      ],
+      "firstName": "Robb",
+      "lastName": "Sterling",
+      "managerId": "8130ca9c-1893-4637-a495-b928c9ab74a3",
+      "hireDate": "12/17/2011",
+      "identifier": "7838064a-3d31-44f5-b62d-e43132e611e1"
+    },
+    {
+      "menteeIds": [
+        "e531f139-5c74-45ed-a97a-6df54f5c60eb",
+        "253d4cf3-f7d0-4386-90cb-01a1adfe8230",
+        "095e0728-054c-483f-b44a-a6b8c5d1f235",
+        "dc2205d6-92bd-486f-a830-f842a79cc382",
+        "3d5265c0-2316-4071-91a6-8677e418a3ec",
+        "a80d0791-5571-4db7-bbaa-1fa73aed66c1",
+        "e9911b1f-c8c1-4f44-bb56-5dff0c19abde"
+      ],
+      "firstName": "Robb",
+      "lastName": "Tully",
+      "managerId": "848e4b35-b8a8-40c6-91f8-19e274b67d08",
+      "hireDate": "10/18/2011",
+      "identifier": "0f625401-3170-4597-8e47-7ad9d8f495ec"
+    },
+    {
+      "menteeIds": [
+        "d69a9b36-6d27-4198-8b94-86caa98535e8",
+        "df4b3adf-e86e-4a7b-864a-d616c54d17da",
+        "e3749217-bbe6-4b92-aab5-59d94a15a006",
+        "ecb566f2-60cf-4cdc-8489-e976499aa973",
+        "dab4f038-cda1-40fb-9cdf-3350170a5b61",
+        "e576c64b-8ef0-4904-95c2-17f14689ddf2",
+        "84a349c6-9e95-4748-9cec-577c20a1be63",
+        "45f0929a-4a3b-4df3-b1ca-0c1753289758"
+      ],
+      "firstName": "Daenarys",
+      "lastName": "Tully",
+      "managerId": "52e81d34-a21c-40a3-89a0-dc2a1ef51150",
+      "hireDate": "05/25/2010",
+      "identifier": "294df12e-0349-4993-aa7f-368167aff5e8"
+    },
+    {
+      "menteeIds": [
+        "4370c530-cb18-41cd-9493-edd42353c8e7",
+        "c6d00601-8096-403d-ab81-22e3a766a9e1",
+        "31f9f6bd-823a-4ded-801c-27a167581979",
+        "6bc08a2c-db9b-4e38-b873-519743b9bbbf",
+        "ebb87aa1-08ba-4e5f-af0d-cf69d329b39e",
+        "25bae43b-3438-40c2-9028-5d617cc9a024",
+        "0eff0456-3d62-495d-a7d5-9ec180796264",
+        "f20a0ba0-4b66-45a2-8b6e-9bcb0b8219fa"
+      ],
+      "firstName": "Eddard",
+      "lastName": "Tully",
+      "managerId": "023de538-3da8-453d-8902-d18deb6fb676",
+      "hireDate": "09/05/2012",
+      "identifier": "f5662dda-6f55-4fca-b39a-e0cbf446712c"
+    },
+    {
+      "menteeIds": [
+        "489dcbbe-39d9-4e87-bbc3-77d58c135bb0",
+        "89747754-d40d-436e-92bb-36b9048a1380",
+        "db14ff48-fb88-4edc-a018-56b41d0bdb15",
+        "4abe7389-40b4-4d88-81bc-3d6db3762205",
+        "ea85f2d7-d1ad-4eb8-b091-aa61e93d54c8",
+        "ff063529-c136-4fcb-ade9-fe60df48e01a",
+        "c0ec18ab-6f8f-4a01-b98f-bee889c4c91e",
+        "0d91f995-4d68-4304-9065-242ca0489e35"
+      ],
+      "firstName": "Thomas",
+      "lastName": "Sterling",
+      "managerId": "18e295b6-d23c-4a8b-a5c3-bc067c556983",
+      "hireDate": "08/23/2010",
+      "identifier": "bca25b17-dc6b-4650-8dcb-7a575d46ce2e"
+    },
+    {
+      "firstName": "Thor",
+      "lastName": "Kubrick",
+      "managerId": "8130ca9c-1893-4637-a495-b928c9ab74a3",
+      "hireDate": "03/12/2011",
+      "identifier": "d69a9b36-6d27-4198-8b94-86caa98535e8",
+      "mentorId": "294df12e-0349-4993-aa7f-368167aff5e8"
+    },
+    {
+      "firstName": "Tim",
+      "lastName": "Eliot",
+      "managerId": "848e4b35-b8a8-40c6-91f8-19e274b67d08",
+      "hireDate": "06/27/2010",
+      "identifier": "4370c530-cb18-41cd-9493-edd42353c8e7",
+      "mentorId": "f5662dda-6f55-4fca-b39a-e0cbf446712c"
+    },
+    {
+      "firstName": "Tywin",
+      "lastName": "Hitchcock",
+      "managerId": "52e81d34-a21c-40a3-89a0-dc2a1ef51150",
+      "hireDate": "10/16/2011",
+      "identifier": "489dcbbe-39d9-4e87-bbc3-77d58c135bb0",
+      "mentorId": "bca25b17-dc6b-4650-8dcb-7a575d46ce2e"
+    },
+    {
+      "firstName": "Auden",
+      "lastName": "Hitchcock",
+      "managerId": "023de538-3da8-453d-8902-d18deb6fb676",
+      "hireDate": "08/22/2012",
+      "identifier": "f4438b49-d1da-45a6-8fb8-926ad90f49d5",
+      "mentorId": "77313b3f-8011-47f2-9bc6-ee6b629a41ec"
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Cook",
+      "managerId": "18e295b6-d23c-4a8b-a5c3-bc067c556983",
+      "hireDate": "10/01/2008",
+      "identifier": "1775aa10-df1b-4745-8dd1-5760af8588cb",
+      "mentorId": "6a94e6dc-d83c-4f90-a2c9-c92e2f326e82"
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Stark",
+      "managerId": "8130ca9c-1893-4637-a495-b928c9ab74a3",
+      "hireDate": "06/17/2008",
+      "identifier": "153508a7-9b29-4059-8883-97fd678b682c",
+      "mentorId": "79bfc9fd-4afb-43b4-93db-0cb7da0ab7cb"
+    },
+    {
+      "firstName": "Auden",
+      "lastName": "Thorpe",
+      "managerId": "848e4b35-b8a8-40c6-91f8-19e274b67d08",
+      "hireDate": "02/24/2010",
+      "identifier": "15cdf3a8-91fb-4ded-b56f-cc09dc05a0ea",
+      "mentorId": "7838064a-3d31-44f5-b62d-e43132e611e1"
+    },
+    {
+      "firstName": "Tim",
+      "lastName": "Stark",
+      "managerId": "52e81d34-a21c-40a3-89a0-dc2a1ef51150",
+      "hireDate": "11/13/2009",
+      "identifier": "e531f139-5c74-45ed-a97a-6df54f5c60eb",
+      "mentorId": "0f625401-3170-4597-8e47-7ad9d8f495ec"
+    },
+    {
+      "firstName": "Rachelle",
+      "lastName": "Targaryen",
+      "managerId": "023de538-3da8-453d-8902-d18deb6fb676",
+      "hireDate": "03/30/2011",
+      "identifier": "df4b3adf-e86e-4a7b-864a-d616c54d17da",
+      "mentorId": "294df12e-0349-4993-aa7f-368167aff5e8"
+    },
+    {
+      "firstName": "Steve",
+      "lastName": "Jobs",
+      "managerId": "18e295b6-d23c-4a8b-a5c3-bc067c556983",
+      "hireDate": "11/15/2008",
+      "identifier": "c6d00601-8096-403d-ab81-22e3a766a9e1",
+      "mentorId": "f5662dda-6f55-4fca-b39a-e0cbf446712c"
+    },
+    {
+      "firstName": "Ben",
+      "lastName": "Greyjoy",
+      "managerId": "8130ca9c-1893-4637-a495-b928c9ab74a3",
+      "hireDate": "09/14/2009",
+      "identifier": "89747754-d40d-436e-92bb-36b9048a1380",
+      "mentorId": "bca25b17-dc6b-4650-8dcb-7a575d46ce2e"
+    },
+    {
+      "firstName": "Olivia",
+      "lastName": "Greyjoy",
+      "managerId": "848e4b35-b8a8-40c6-91f8-19e274b67d08",
+      "hireDate": "01/29/2010",
+      "identifier": "bea2db2b-1d65-4856-8c4e-5673448e0e57",
+      "mentorId": "77313b3f-8011-47f2-9bc6-ee6b629a41ec"
+    },
+    {
+      "firstName": "Rachelle",
+      "lastName": "Miller",
+      "managerId": "52e81d34-a21c-40a3-89a0-dc2a1ef51150",
+      "hireDate": "07/17/2010",
+      "identifier": "c0ad6ca2-da75-4251-9abe-10aca451f055",
+      "mentorId": "6a94e6dc-d83c-4f90-a2c9-c92e2f326e82"
+    },
+    {
+      "firstName": "Oberon",
+      "lastName": "Eliot",
+      "managerId": "023de538-3da8-453d-8902-d18deb6fb676",
+      "hireDate": "11/07/2009",
+      "identifier": "8b5865a0-43cd-4889-86a1-6b4dc162befa",
+      "mentorId": "79bfc9fd-4afb-43b4-93db-0cb7da0ab7cb"
+    },
+    {
+      "firstName": "Jon",
+      "lastName": "Schiller",
+      "managerId": "18e295b6-d23c-4a8b-a5c3-bc067c556983",
+      "hireDate": "12/18/2010",
+      "identifier": "a67fcf55-4a65-4acd-8705-aea24b07e4de",
+      "mentorId": "7838064a-3d31-44f5-b62d-e43132e611e1"
+    },
+    {
+      "firstName": "Matthew",
+      "lastName": "Cook",
+      "managerId": "8130ca9c-1893-4637-a495-b928c9ab74a3",
+      "hireDate": "02/20/2011",
+      "identifier": "253d4cf3-f7d0-4386-90cb-01a1adfe8230",
+      "mentorId": "0f625401-3170-4597-8e47-7ad9d8f495ec"
+    },
+    {
+      "firstName": "Matthew",
+      "lastName": "Stark",
+      "managerId": "848e4b35-b8a8-40c6-91f8-19e274b67d08",
+      "hireDate": "05/19/2011",
+      "identifier": "e3749217-bbe6-4b92-aab5-59d94a15a006",
+      "mentorId": "294df12e-0349-4993-aa7f-368167aff5e8"
+    },
+    {
+      "firstName": "Phil",
+      "lastName": "Wheeler",
+      "managerId": "52e81d34-a21c-40a3-89a0-dc2a1ef51150",
+      "hireDate": "07/10/2010",
+      "identifier": "31f9f6bd-823a-4ded-801c-27a167581979",
+      "mentorId": "f5662dda-6f55-4fca-b39a-e0cbf446712c"
+    },
+    {
+      "firstName": "Oberon",
+      "lastName": "Sterling",
+      "managerId": "023de538-3da8-453d-8902-d18deb6fb676",
+      "hireDate": "05/17/2008",
+      "identifier": "db14ff48-fb88-4edc-a018-56b41d0bdb15",
+      "mentorId": "bca25b17-dc6b-4650-8dcb-7a575d46ce2e"
+    },
+    {
+      "firstName": "Louis",
+      "lastName": "Serlet",
+      "managerId": "18e295b6-d23c-4a8b-a5c3-bc067c556983",
+      "hireDate": "05/12/2012",
+      "identifier": "9236ca65-a306-4ac5-9df7-12fdae2e5e38",
+      "mentorId": "77313b3f-8011-47f2-9bc6-ee6b629a41ec"
+    },
+    {
+      "firstName": "Phil",
+      "lastName": "Mauer",
+      "managerId": "8130ca9c-1893-4637-a495-b928c9ab74a3",
+      "hireDate": "05/10/2010",
+      "identifier": "c3b93c56-9e17-4848-84f8-c557fccee9c8",
+      "mentorId": "6a94e6dc-d83c-4f90-a2c9-c92e2f326e82"
+    },
+    {
+      "firstName": "Tim",
+      "lastName": "Hitchcock",
+      "managerId": "848e4b35-b8a8-40c6-91f8-19e274b67d08",
+      "hireDate": "01/03/2008",
+      "identifier": "2c5f3490-274e-42c8-8a13-de0da409a54d",
+      "mentorId": "79bfc9fd-4afb-43b4-93db-0cb7da0ab7cb"
+    },
+    {
+      "firstName": "Robb",
+      "lastName": "Tully",
+      "managerId": "52e81d34-a21c-40a3-89a0-dc2a1ef51150",
+      "hireDate": "11/06/2008",
+      "identifier": "edf8b1bf-a4ce-4c32-bc6b-665bb4d55e2b",
+      "mentorId": "7838064a-3d31-44f5-b62d-e43132e611e1"
+    },
+    {
+      "firstName": "Matthew",
+      "lastName": "Kubrick",
+      "managerId": "023de538-3da8-453d-8902-d18deb6fb676",
+      "hireDate": "01/04/2011",
+      "identifier": "095e0728-054c-483f-b44a-a6b8c5d1f235",
+      "mentorId": "0f625401-3170-4597-8e47-7ad9d8f495ec"
+    },
+    {
+      "firstName": "Tim",
+      "lastName": "Kubrick",
+      "managerId": "18e295b6-d23c-4a8b-a5c3-bc067c556983",
+      "hireDate": "06/11/2009",
+      "identifier": "ecb566f2-60cf-4cdc-8489-e976499aa973",
+      "mentorId": "294df12e-0349-4993-aa7f-368167aff5e8"
+    },
+    {
+      "firstName": "Tywin",
+      "lastName": "Martell",
+      "managerId": "8130ca9c-1893-4637-a495-b928c9ab74a3",
+      "hireDate": "04/17/2010",
+      "identifier": "6bc08a2c-db9b-4e38-b873-519743b9bbbf",
+      "mentorId": "f5662dda-6f55-4fca-b39a-e0cbf446712c"
+    },
+    {
+      "firstName": "Joe",
+      "lastName": "Tully",
+      "managerId": "848e4b35-b8a8-40c6-91f8-19e274b67d08",
+      "hireDate": "04/14/2008",
+      "identifier": "4abe7389-40b4-4d88-81bc-3d6db3762205",
+      "mentorId": "bca25b17-dc6b-4650-8dcb-7a575d46ce2e"
+    },
+    {
+      "firstName": "Robb",
+      "lastName": "Jobs",
+      "managerId": "52e81d34-a21c-40a3-89a0-dc2a1ef51150",
+      "hireDate": "09/27/2012",
+      "identifier": "b6573679-5f20-4d06-9f29-768921cad532",
+      "mentorId": "77313b3f-8011-47f2-9bc6-ee6b629a41ec"
+    },
+    {
+      "firstName": "Matthew",
+      "lastName": "Eliot",
+      "managerId": "023de538-3da8-453d-8902-d18deb6fb676",
+      "hireDate": "11/17/2010",
+      "identifier": "04b20d5a-16ee-463b-8ddb-1a4b449532e5",
+      "mentorId": "6a94e6dc-d83c-4f90-a2c9-c92e2f326e82"
+    },
+    {
+      "firstName": "Robb",
+      "lastName": "Sterling",
+      "managerId": "8130ca9c-1893-4637-a495-b928c9ab74a3",
+      "hireDate": "12/24/2011",
+      "identifier": "c5389d19-3b2f-4c69-b1c8-14366f199776",
+      "mentorId": "7838064a-3d31-44f5-b62d-e43132e611e1"
+    },
+    {
+      "firstName": "Rachelle",
+      "lastName": "Smith",
+      "managerId": "848e4b35-b8a8-40c6-91f8-19e274b67d08",
+      "hireDate": "04/19/2010",
+      "identifier": "dc2205d6-92bd-486f-a830-f842a79cc382",
+      "mentorId": "0f625401-3170-4597-8e47-7ad9d8f495ec"
+    },
+    {
+      "firstName": "Joe",
+      "lastName": "Thorpe",
+      "managerId": "52e81d34-a21c-40a3-89a0-dc2a1ef51150",
+      "hireDate": "02/21/2010",
+      "identifier": "dab4f038-cda1-40fb-9cdf-3350170a5b61",
+      "mentorId": "294df12e-0349-4993-aa7f-368167aff5e8"
+    },
+    {
+      "firstName": "Kirby",
+      "lastName": "Thorpe",
+      "managerId": "023de538-3da8-453d-8902-d18deb6fb676",
+      "hireDate": "09/09/2012",
+      "identifier": "ebb87aa1-08ba-4e5f-af0d-cf69d329b39e",
+      "mentorId": "f5662dda-6f55-4fca-b39a-e0cbf446712c"
+    },
+    {
+      "firstName": "Jon",
+      "lastName": "Eliot",
+      "managerId": "18e295b6-d23c-4a8b-a5c3-bc067c556983",
+      "hireDate": "01/05/2009",
+      "identifier": "ea85f2d7-d1ad-4eb8-b091-aa61e93d54c8",
+      "mentorId": "bca25b17-dc6b-4650-8dcb-7a575d46ce2e"
+    },
+    {
+      "firstName": "Thor",
+      "lastName": "Kubrick",
+      "managerId": "8130ca9c-1893-4637-a495-b928c9ab74a3",
+      "hireDate": "09/14/2009",
+      "identifier": "83196dfc-3e00-4040-b1b6-88e16bd0d38d",
+      "mentorId": "77313b3f-8011-47f2-9bc6-ee6b629a41ec"
+    },
+    {
+      "firstName": "Daenarys",
+      "lastName": "Kubrick",
+      "managerId": "848e4b35-b8a8-40c6-91f8-19e274b67d08",
+      "hireDate": "12/17/2009",
+      "identifier": "61bf477d-06ad-403e-bf31-2c55da055a97",
+      "mentorId": "6a94e6dc-d83c-4f90-a2c9-c92e2f326e82"
+    },
+    {
+      "firstName": "Ben",
+      "lastName": "Tyrell",
+      "managerId": "52e81d34-a21c-40a3-89a0-dc2a1ef51150",
+      "hireDate": "05/27/2008",
+      "identifier": "1131c3b6-3989-4223-b62f-6c8e9990ba82",
+      "mentorId": "79bfc9fd-4afb-43b4-93db-0cb7da0ab7cb"
+    },
+    {
+      "firstName": "Phil",
+      "lastName": "Mauer",
+      "managerId": "18e295b6-d23c-4a8b-a5c3-bc067c556983",
+      "hireDate": "11/24/2011",
+      "identifier": "3d5265c0-2316-4071-91a6-8677e418a3ec",
+      "mentorId": "0f625401-3170-4597-8e47-7ad9d8f495ec"
+    },
+    {
+      "firstName": "Tim",
+      "lastName": "Miller",
+      "managerId": "8130ca9c-1893-4637-a495-b928c9ab74a3",
+      "hireDate": "12/03/2009",
+      "identifier": "e576c64b-8ef0-4904-95c2-17f14689ddf2",
+      "mentorId": "294df12e-0349-4993-aa7f-368167aff5e8"
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Hitchcock",
+      "managerId": "848e4b35-b8a8-40c6-91f8-19e274b67d08",
+      "hireDate": "05/04/2009",
+      "identifier": "25bae43b-3438-40c2-9028-5d617cc9a024",
+      "mentorId": "f5662dda-6f55-4fca-b39a-e0cbf446712c"
+    },
+    {
+      "firstName": "Daenarys",
+      "lastName": "Lannister",
+      "managerId": "52e81d34-a21c-40a3-89a0-dc2a1ef51150",
+      "hireDate": "01/31/2011",
+      "identifier": "ff063529-c136-4fcb-ade9-fe60df48e01a",
+      "mentorId": "bca25b17-dc6b-4650-8dcb-7a575d46ce2e"
+    },
+    {
+      "firstName": "Malcolm",
+      "lastName": "Smith",
+      "managerId": "023de538-3da8-453d-8902-d18deb6fb676",
+      "hireDate": "05/31/2008",
+      "identifier": "6eecf9b5-10ab-4c66-82c4-127b9662fddb",
+      "mentorId": "77313b3f-8011-47f2-9bc6-ee6b629a41ec"
+    },
+    {
+      "firstName": "Olivia",
+      "lastName": "Targaryen",
+      "managerId": "18e295b6-d23c-4a8b-a5c3-bc067c556983",
+      "hireDate": "11/05/2008",
+      "identifier": "9ed4012e-169b-4ddf-8b2e-87a16c93b738",
+      "mentorId": "6a94e6dc-d83c-4f90-a2c9-c92e2f326e82"
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Tyrell",
+      "managerId": "8130ca9c-1893-4637-a495-b928c9ab74a3",
+      "hireDate": "04/27/2008",
+      "identifier": "75491532-f5ff-4800-b469-dd2c4bc32803",
+      "mentorId": "79bfc9fd-4afb-43b4-93db-0cb7da0ab7cb"
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Hitchcock",
+      "managerId": "848e4b35-b8a8-40c6-91f8-19e274b67d08",
+      "hireDate": "02/25/2012",
+      "identifier": "e8d1b975-6757-4128-9d08-cfe1b3b8e986",
+      "mentorId": "7838064a-3d31-44f5-b62d-e43132e611e1"
+    },
+    {
+      "firstName": "Rachelle",
+      "lastName": "Smith",
+      "managerId": "52e81d34-a21c-40a3-89a0-dc2a1ef51150",
+      "hireDate": "12/20/2012",
+      "identifier": "a80d0791-5571-4db7-bbaa-1fa73aed66c1",
+      "mentorId": "0f625401-3170-4597-8e47-7ad9d8f495ec"
+    },
+    {
+      "firstName": "Tyrion",
+      "lastName": "Tully",
+      "managerId": "023de538-3da8-453d-8902-d18deb6fb676",
+      "hireDate": "07/10/2012",
+      "identifier": "84a349c6-9e95-4748-9cec-577c20a1be63",
+      "mentorId": "294df12e-0349-4993-aa7f-368167aff5e8"
+    },
+    {
+      "firstName": "Matthew",
+      "lastName": "Eliot",
+      "managerId": "18e295b6-d23c-4a8b-a5c3-bc067c556983",
+      "hireDate": "02/17/2012",
+      "identifier": "0eff0456-3d62-495d-a7d5-9ec180796264",
+      "mentorId": "f5662dda-6f55-4fca-b39a-e0cbf446712c"
+    },
+    {
+      "firstName": "Eddard",
+      "lastName": "Kubrick",
+      "managerId": "8130ca9c-1893-4637-a495-b928c9ab74a3",
+      "hireDate": "09/21/2012",
+      "identifier": "c0ec18ab-6f8f-4a01-b98f-bee889c4c91e",
+      "mentorId": "bca25b17-dc6b-4650-8dcb-7a575d46ce2e"
+    },
+    {
+      "firstName": "Matthew",
+      "lastName": "Stark",
+      "managerId": "848e4b35-b8a8-40c6-91f8-19e274b67d08",
+      "hireDate": "01/25/2011",
+      "identifier": "f62df4be-9400-40fd-a3a2-883c63bd3329",
+      "mentorId": "77313b3f-8011-47f2-9bc6-ee6b629a41ec"
+    },
+    {
+      "firstName": "Odin",
+      "lastName": "Miller",
+      "managerId": "023de538-3da8-453d-8902-d18deb6fb676",
+      "hireDate": "02/28/2009",
+      "identifier": "75f54d6f-b986-44f1-afb2-258cfe0f43ab",
+      "mentorId": "79bfc9fd-4afb-43b4-93db-0cb7da0ab7cb"
+    },
+    {
+      "firstName": "Auden",
+      "lastName": "Thorpe",
+      "managerId": "18e295b6-d23c-4a8b-a5c3-bc067c556983",
+      "hireDate": "04/03/2010",
+      "identifier": "17d7f0cc-46f0-47f5-81c3-05e433edce53",
+      "mentorId": "7838064a-3d31-44f5-b62d-e43132e611e1"
+    },
+    {
+      "firstName": "Rachelle",
+      "lastName": "Thorpe",
+      "managerId": "8130ca9c-1893-4637-a495-b928c9ab74a3",
+      "hireDate": "04/05/2008",
+      "identifier": "e9911b1f-c8c1-4f44-bb56-5dff0c19abde",
+      "mentorId": "0f625401-3170-4597-8e47-7ad9d8f495ec"
+    },
+    {
+      "firstName": "Thor",
+      "lastName": "Miller",
+      "managerId": "848e4b35-b8a8-40c6-91f8-19e274b67d08",
+      "hireDate": "10/17/2011",
+      "identifier": "45f0929a-4a3b-4df3-b1ca-0c1753289758",
+      "mentorId": "294df12e-0349-4993-aa7f-368167aff5e8"
+    },
+    {
+      "firstName": "Tyrion",
+      "lastName": "Schiller",
+      "managerId": "52e81d34-a21c-40a3-89a0-dc2a1ef51150",
+      "hireDate": "07/10/2010",
+      "identifier": "f20a0ba0-4b66-45a2-8b6e-9bcb0b8219fa",
+      "mentorId": "f5662dda-6f55-4fca-b39a-e0cbf446712c"
+    },
+    {
+      "firstName": "Tim",
+      "lastName": "Stark",
+      "managerId": "023de538-3da8-453d-8902-d18deb6fb676",
+      "hireDate": "11/29/2009",
+      "identifier": "0d91f995-4d68-4304-9065-242ca0489e35",
+      "mentorId": "bca25b17-dc6b-4650-8dcb-7a575d46ce2e"
+    },
+    {
+      "firstName": "Tyrion",
+      "lastName": "Kubrick",
+      "managerId": "18e295b6-d23c-4a8b-a5c3-bc067c556983",
+      "hireDate": "04/01/2011",
+      "identifier": "d655e314-d54a-467b-b543-5b73e70596a5",
+      "mentorId": "77313b3f-8011-47f2-9bc6-ee6b629a41ec"
+    },
+    {
+      "firstName": "Thor",
+      "lastName": "Miller",
+      "managerId": "848e4b35-b8a8-40c6-91f8-19e274b67d08",
+      "hireDate": "11/29/2011",
+      "identifier": "da39af56-d035-4bfc-b84e-f4d33f9c5b36",
+      "mentorId": "79bfc9fd-4afb-43b4-93db-0cb7da0ab7cb"
+    },
+    {
+      "lastName": "Sterling",
+      "hireDate": "05/06/2009",
+      "identifier": "aa3a9f06-6bb7-4361-be02-aa20a781d877",
+      "firstName": "Thor"
+    },
+    {
+      "lastName": "Tully",
+      "hireDate": "11/07/2009",
+      "identifier": "a0a075c5-6a4e-4286-94ea-ec66ac10bebd",
+      "firstName": "Daenarys"
+    },
+    {
+      "lastName": "Russell",
+      "hireDate": "02/26/2010",
+      "identifier": "5bfef9ca-6b7d-407d-a8a2-919dca45241d",
+      "firstName": "Tim"
+    },
+    {
+      "lastName": "Sterling",
+      "hireDate": "12/16/2009",
+      "identifier": "e672a67e-5065-463c-a234-79381878e30f",
+      "firstName": "Eddard"
+    },
+    {
+      "lastName": "Schiller",
+      "hireDate": "07/01/2008",
+      "identifier": "8505bccb-9648-427f-8e9b-dfaa29a2fdb8",
+      "firstName": "Emily"
+    }
+  ]
+}

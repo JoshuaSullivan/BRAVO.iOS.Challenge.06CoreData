@@ -23,6 +23,7 @@
 /* Begin PBXBuildFile section */
 		0908EF48245C44C0ABC68855 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 17EEF1198BD3425781C500DD /* libPods.a */; };
 		194873A4CDE04FE59F2BC33E /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 19F4E1966C554AD29071ECAF /* Settings.bundle */; };
+		21A29013192A5D840038977D /* updateSampleData.json in Resources */ = {isa = PBXBuildFile; fileRef = 21A29012192A5D840038977D /* updateSampleData.json */; };
 		21F99C4B191AE562008D5B56 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 21F99C4A191AE562008D5B56 /* Foundation.framework */; };
 		21F99C4D191AE562008D5B56 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 21F99C4C191AE562008D5B56 /* CoreGraphics.framework */; };
 		21F99C4F191AE562008D5B56 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 21F99C4E191AE562008D5B56 /* UIKit.framework */; };
@@ -58,6 +59,7 @@
 /* Begin PBXFileReference section */
 		17EEF1198BD3425781C500DD /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		19F4E1966C554AD29071ECAF /* Settings.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
+		21A29012192A5D840038977D /* updateSampleData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = updateSampleData.json; sourceTree = "<group>"; };
 		21F99C47191AE562008D5B56 /* BRAVO.iOS.Challenge.06CoreData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BRAVO.iOS.Challenge.06CoreData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21F99C4A191AE562008D5B56 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		21F99C4C191AE562008D5B56 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -252,6 +254,7 @@
 		9DFD803C5D794CD5ADB63B22 /* Data */ = {
 			isa = PBXGroup;
 			children = (
+				21A29012192A5D840038977D /* updateSampleData.json */,
 				21F99C93191D4BFA008D5B56 /* initialSampleData.json */,
 			);
 			path = Data;
@@ -379,6 +382,7 @@
 			files = (
 				21F99C94191D4BFA008D5B56 /* initialSampleData.json in Resources */,
 				21F99C57191AE562008D5B56 /* InfoPlist.strings in Resources */,
+				21A29013192A5D840038977D /* updateSampleData.json in Resources */,
 				21F99C62191AE562008D5B56 /* Images.xcassets in Resources */,
 				21F99C86191BC731008D5B56 /* NRDMainViewController.xib in Resources */,
 				194873A4CDE04FE59F2BC33E /* Settings.bundle in Resources */,
@@ -730,6 +734,7 @@
 				21F99C91191D43B5008D5B56 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
