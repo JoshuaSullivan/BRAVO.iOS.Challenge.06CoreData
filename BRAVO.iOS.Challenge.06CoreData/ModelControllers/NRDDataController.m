@@ -14,9 +14,7 @@
 
 
 + (void)parseInitialDataWithCompletionBlock:(void (^)(BOOL success))completionBlock
-{
-    NSLog(@"initial");
-    
+{    
     NSManagedObjectContext *privateContext = [NRDCoreDataManager secondaryPrivateQueueManagedObjectContext];
     //privateContext.undoManager = nil;
     

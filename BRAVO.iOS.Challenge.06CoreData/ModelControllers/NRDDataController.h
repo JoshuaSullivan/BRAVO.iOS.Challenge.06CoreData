@@ -10,8 +10,6 @@
 
 @interface NRDDataController : NSObject
 
-+ (NSDictionary *)dictionaryWithContentsOfJSONString:(NSString*)fileLocation;
-
 + (void)parseInitialDataWithCompletionBlock:(void (^)(BOOL success))completionBlock;
 
 + (void)parseUpdateDataWithCompletionBlock:(void (^)(BOOL success))completionBlock;
