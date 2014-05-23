@@ -8,6 +8,7 @@
 
 #import "NRDMainViewController.h"
 #import "NRDDataController.h"
+#import "AppCoreDataManager.h"
 
 @interface NRDMainViewController ()
 
@@ -103,10 +104,25 @@
     self.updateParseResultsLabel.hidden = NO;
     self.updateParseResultsLabel.text = [NSString stringWithFormat:@"%1.3f seconds", updateParseDuration];
     
-    [UIView animateWithDuration:0.3
-                     animations:^ {
-                         self.centerButton.alpha = 0.0f;
-                     }];
+    [self.centerButton setTitle:@"Reset" forState:UIControlStateNormal];
+    self.centerButton.enabled = YES;
+    
+    [self.centerButton removeTarget:nil action:@selector(beginUpdateParse:) forControlEvents:UIControlEventTouchUpInside];
+    [self.centerButton addTarget:self action:@selector(resetTests) forControlEvents:UIControlEventTouchUpInside];
+}
+
+- (void)resetTests
+{
+    [AppCoreDataManager clearDatabase];
+    
+    self.initialParseResultsLabel.hidden = YES;
+    self.updateParseResultsLabel.hidden = YES;
+    
+    [self.centerButton setTitle:@"Start Initial Parse" forState:UIControlStateNormal];
+    self.centerButton.enabled = YES;
+    
+    [self.centerButton removeTarget:nil action:@selector(resetTests) forControlEvents:UIControlEventTouchUpInside];
+    [self.centerButton addTarget:self action:@selector(beginInitialParse:) forControlEvents:UIControlEventTouchUpInside];
 }
 
 @end
