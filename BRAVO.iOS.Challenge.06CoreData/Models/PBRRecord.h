@@ -1,5 +1,8 @@
 #import "_PBRRecord.h"
 
 @interface PBRRecord : _PBRRecord {}
-// Custom logic goes here.
+
++ (void)importJSONData:(NSDictionary *)jsonData
+           intoContext:(NSManagedObjectContext *)context;
+
 @end

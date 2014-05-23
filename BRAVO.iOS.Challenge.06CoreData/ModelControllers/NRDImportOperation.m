@@ -8,6 +8,7 @@
 
 #import "NRDImportOperation.h"
 #import "Employee.h"
+#import "PBRRecord.h"
 #import "AppCoreDataManager.h"
 
 @interface NRDImportOperation()
@@ -46,9 +47,14 @@
     NSArray *employees = jsonData[@"Employees"];
     
     for (NSDictionary *employee in employees) {
-//        NSLog(@"%@", employee);
         [Employee importJSONData:employee
                      intoContext:self.privateContext];
+    }
+    
+    NSArray *records = jsonData[@"PBRRecords"];
+    for (NSDictionary *record in records) {
+        [PBRRecord importJSONData:record
+                      intoContext:self.privateContext];
     }
 }
 
@@ -57,8 +63,6 @@
 - (NSDictionary *)dictionaryWithContentsOfJSONString:(NSString*)fileLocation
 {
     NSString *filePath = [[NSBundle mainBundle] pathForResource:[fileLocation stringByDeletingPathExtension] ofType:[fileLocation pathExtension]];
-    
-    NSLog(@"%@", filePath);
     
     NSData* data = [NSData dataWithContentsOfFile:filePath];
     __autoreleasing NSError* error = nil;

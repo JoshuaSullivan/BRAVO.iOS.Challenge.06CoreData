@@ -11,7 +11,7 @@
 @implementation Employee
 
 + (void)importJSONData:(NSDictionary *)jsonData
-           intoContext:(NSManagedObjectContext *)context;
+           intoContext:(NSManagedObjectContext *)context
 {
     Employee *employee = [Employee insertInManagedObjectContext:context];
     

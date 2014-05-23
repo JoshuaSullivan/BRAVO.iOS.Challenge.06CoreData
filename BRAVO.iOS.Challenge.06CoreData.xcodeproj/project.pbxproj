@@ -74,7 +74,7 @@
 		21A2900D1926757E0038977D /* PBRRecord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PBRRecord.m; sourceTree = "<group>"; };
 		21A29011192692230038977D /* NRDImportConstants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NRDImportConstants.h; sourceTree = "<group>"; };
 		21F2CDE1192FA371005D8214 /* updateSampleData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = updateSampleData.json; sourceTree = "<group>"; };
-		21F99C47191AE562008D5B56 /* BRAVO.iOS.Challenge.06CoreData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BRAVO.iOS.Challenge.06CoreData.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		21F99C47191AE562008D5B56 /* 06CoreData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 06CoreData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21F99C4A191AE562008D5B56 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		21F99C4C191AE562008D5B56 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		21F99C4E191AE562008D5B56 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -167,7 +167,7 @@
 		21F99C48191AE562008D5B56 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				21F99C47191AE562008D5B56 /* BRAVO.iOS.Challenge.06CoreData.app */,
+				21F99C47191AE562008D5B56 /* 06CoreData.app */,
 				21F99C67191AE562008D5B56 /* BRAVO.iOS.Challenge.06CoreDataTests.xctest */,
 			);
 			name = Products;
@@ -355,7 +355,7 @@
 			);
 			name = BRAVO.iOS.Challenge.06CoreData;
 			productName = BRAVO.iOS.Challenge.06CoreData;
-			productReference = 21F99C47191AE562008D5B56 /* BRAVO.iOS.Challenge.06CoreData.app */;
+			productReference = 21F99C47191AE562008D5B56 /* 06CoreData.app */;
 			productType = "com.apple.product-type.application";
 		};
 		21F99C66191AE562008D5B56 /* BRAVO.iOS.Challenge.06CoreDataTests */ = {
@@ -664,7 +664,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BRAVO.iOS.Challenge.06CoreData/BRAVO.iOS.Challenge.06CoreData-Prefix.pch";
 				INFOPLIST_FILE = "BRAVO.iOS.Challenge.06CoreData/BRAVO.iOS.Challenge.06CoreData-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = 06CoreData;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -678,7 +678,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BRAVO.iOS.Challenge.06CoreData/BRAVO.iOS.Challenge.06CoreData-Prefix.pch";
 				INFOPLIST_FILE = "BRAVO.iOS.Challenge.06CoreData/BRAVO.iOS.Challenge.06CoreData-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = 06CoreData;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
