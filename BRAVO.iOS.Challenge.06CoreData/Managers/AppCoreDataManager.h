@@ -10,4 +10,6 @@
 
 @interface AppCoreDataManager : NRDCoreDataManager
 
++ (void)clearDatabase;
+
 @end
