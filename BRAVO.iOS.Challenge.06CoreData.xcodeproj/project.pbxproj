@@ -27,6 +27,7 @@
 		21A29007192675470038977D /* _PBRRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = 21A29001192675470038977D /* _PBRRecord.m */; };
 		21A2900E1926757E0038977D /* Employee.m in Sources */ = {isa = PBXBuildFile; fileRef = 21A2900B1926757E0038977D /* Employee.m */; };
 		21A2900F1926757E0038977D /* PBRRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = 21A2900D1926757E0038977D /* PBRRecord.m */; };
+		21F2CDE2192FA371005D8214 /* updateSampleData.json in Resources */ = {isa = PBXBuildFile; fileRef = 21F2CDE1192FA371005D8214 /* updateSampleData.json */; };
 		21F99C4B191AE562008D5B56 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 21F99C4A191AE562008D5B56 /* Foundation.framework */; };
 		21F99C4D191AE562008D5B56 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 21F99C4C191AE562008D5B56 /* CoreGraphics.framework */; };
 		21F99C4F191AE562008D5B56 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 21F99C4E191AE562008D5B56 /* UIKit.framework */; };
@@ -72,6 +73,7 @@
 		21A2900C1926757E0038977D /* PBRRecord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PBRRecord.h; sourceTree = "<group>"; };
 		21A2900D1926757E0038977D /* PBRRecord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PBRRecord.m; sourceTree = "<group>"; };
 		21A29011192692230038977D /* NRDImportConstants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NRDImportConstants.h; sourceTree = "<group>"; };
+		21F2CDE1192FA371005D8214 /* updateSampleData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = updateSampleData.json; sourceTree = "<group>"; };
 		21F99C47191AE562008D5B56 /* BRAVO.iOS.Challenge.06CoreData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BRAVO.iOS.Challenge.06CoreData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21F99C4A191AE562008D5B56 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		21F99C4C191AE562008D5B56 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -281,6 +283,7 @@
 		9DFD803C5D794CD5ADB63B22 /* Data */ = {
 			isa = PBXGroup;
 			children = (
+				21F2CDE1192FA371005D8214 /* updateSampleData.json */,
 				21F99C93191D4BFA008D5B56 /* initialSampleData.json */,
 			);
 			path = Data;
@@ -414,6 +417,7 @@
 			files = (
 				21F99C94191D4BFA008D5B56 /* initialSampleData.json in Resources */,
 				21F99C57191AE562008D5B56 /* InfoPlist.strings in Resources */,
+				21F2CDE2192FA371005D8214 /* updateSampleData.json in Resources */,
 				21F99C62191AE562008D5B56 /* Images.xcassets in Resources */,
 				21F99C86191BC731008D5B56 /* NRDMainViewController.xib in Resources */,
 				194873A4CDE04FE59F2BC33E /* Settings.bundle in Resources */,
