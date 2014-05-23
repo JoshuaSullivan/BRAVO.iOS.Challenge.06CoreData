@@ -25,7 +25,7 @@
     self.window.rootViewController = mainViewController;
     [self.window makeKeyAndVisible];
     
-    [[AppCoreDataManager sharedManager] managedObjectContext];
+    [AppCoreDataManager clearDatabase];
     
     return YES;
 }
