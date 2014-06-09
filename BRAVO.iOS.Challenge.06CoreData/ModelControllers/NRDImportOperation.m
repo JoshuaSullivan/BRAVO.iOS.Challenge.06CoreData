@@ -10,6 +10,7 @@
 #import "Employee.h"
 #import "PBRRecord.h"
 #import "AppCoreDataManager.h"
+#import "NRDImportConstants.h"
 
 @interface NRDImportOperation()
 
@@ -46,15 +47,31 @@
 
     NSArray *employees = jsonData[@"Employees"];
     
-    for (NSDictionary *employee in employees) {
-        [Employee importJSONData:employee
-                     intoContext:self.privateContext];
+    NSMutableDictionary *employeesDict = [NSMutableDictionary dictionaryWithCapacity:[employees count]];
+    
+    for (NSDictionary *employeeJSON in employees) {
+        Employee *employee = [Employee importJSONData:employeeJSON
+                                          intoContext:self.privateContext];
+        
+        employeesDict[employee.identifier] = employee;
+    }
+    
+    for (Employee *employee in [employeesDict allValues]) {
+        [employee createRelationshipsUsingEmployeeDict:employeesDict];
     }
     
     NSArray *records = jsonData[@"PBRRecords"];
-    for (NSDictionary *record in records) {
-        [PBRRecord importJSONData:record
-                      intoContext:self.privateContext];
+    for (NSDictionary *recordJSON in records) {
+        PBRRecord *record = [PBRRecord importJSONData:recordJSON
+                                          intoContext:self.privateContext];
+        
+        record.employee = employeesDict[recordJSON[kNRDPBREmployeeId]];
+    }
+    
+    NSError *error;
+
+    if (![self.privateContext save:&error]) {
+        NSLog(@"%@", error.localizedDescription);
     }
 }
 
