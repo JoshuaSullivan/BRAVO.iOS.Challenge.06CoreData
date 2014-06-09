@@ -12,7 +12,6 @@
 
 @implementation NRDDataController
 
-
 + (void)parseInitialDataWithCompletionBlock:(void (^)(BOOL success))completionBlock
 {    
     NSManagedObjectContext *privateContext = [NRDCoreDataManager secondaryPrivateQueueManagedObjectContext];
@@ -25,7 +24,8 @@
         completionBlock(YES);
     }];
     
-    [[NSOperationQueue mainQueue] addOperation:importOperation];
+    NSOperationQueue *operationQueue = [[NSOperationQueue alloc] init];
+    [operationQueue addOperation:importOperation];
 }
 
 + (void)parseUpdateDataWithCompletionBlock:(void (^)(BOOL success))completionBlock

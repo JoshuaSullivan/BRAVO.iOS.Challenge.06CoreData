@@ -1,0 +1,5 @@
+[
+  "-workspace", "BRAVO.iOS.Challenge.06CoreData.xcworkspace",
+  "-scheme", "BRAVO.iOS.Challenge.06CoreData",
+  "-configuration", "Debug"
+]
