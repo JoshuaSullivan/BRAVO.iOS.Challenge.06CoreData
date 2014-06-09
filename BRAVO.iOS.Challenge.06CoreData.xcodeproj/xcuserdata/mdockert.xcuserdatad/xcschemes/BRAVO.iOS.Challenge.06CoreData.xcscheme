@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "21F99C46191AE562008D5B56"
-               BuildableName = "BRAVO.iOS.Challenge.06CoreData.app"
+               BuildableName = "06CoreData.app"
                BlueprintName = "BRAVO.iOS.Challenge.06CoreData"
                ReferencedContainer = "container:BRAVO.iOS.Challenge.06CoreData.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "21F99C46191AE562008D5B56"
-            BuildableName = "BRAVO.iOS.Challenge.06CoreData.app"
+            BuildableName = "06CoreData.app"
             BlueprintName = "BRAVO.iOS.Challenge.06CoreData"
             ReferencedContainer = "container:BRAVO.iOS.Challenge.06CoreData.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "21F99C46191AE562008D5B56"
-            BuildableName = "BRAVO.iOS.Challenge.06CoreData.app"
+            BuildableName = "06CoreData.app"
             BlueprintName = "BRAVO.iOS.Challenge.06CoreData"
             ReferencedContainer = "container:BRAVO.iOS.Challenge.06CoreData.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "21F99C46191AE562008D5B56"
-            BuildableName = "BRAVO.iOS.Challenge.06CoreData.app"
+            BuildableName = "06CoreData.app"
             BlueprintName = "BRAVO.iOS.Challenge.06CoreData"
             ReferencedContainer = "container:BRAVO.iOS.Challenge.06CoreData.xcodeproj">
          </BuildableReference>
