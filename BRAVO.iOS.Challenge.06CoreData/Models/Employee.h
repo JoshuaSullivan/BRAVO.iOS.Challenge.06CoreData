@@ -2,7 +2,10 @@
 
 @interface Employee : _Employee {}
 
-+ (void)importJSONData:(NSDictionary *)jsonData
-           intoContext:(NSManagedObjectContext *)context;
++ (Employee *)importJSONData:(NSDictionary *)jsonData
+                 intoContext:(NSManagedObjectContext *)context;
+
+- (void)createRelationshipsUsingEmployeeDict:(NSDictionary *)employeeDict;
+
 
 @end

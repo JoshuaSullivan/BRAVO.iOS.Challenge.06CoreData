@@ -11,8 +11,8 @@
 
 @implementation PBRRecord
 
-+ (void)importJSONData:(NSDictionary *)jsonData
-           intoContext:(NSManagedObjectContext *)context
++ (PBRRecord *)importJSONData:(NSDictionary *)jsonData
+                  intoContext:(NSManagedObjectContext *)context
 {
     PBRRecord *record = [PBRRecord insertInManagedObjectContext:context];
     
@@ -39,6 +39,8 @@
     if (![context save:&error]) {
         NSLog(@"%@", error.localizedDescription);
     }
+    
+    return record;
 }
 
 @end
