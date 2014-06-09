@@ -10,4 +10,9 @@ The data for this challenge represent a simplified Nerdery employee timesheet sy
 3. Some employees who are not managers may be mentors, and have other employees as mentees. All employees who are not mentors or managers will have a relationship with their associated mentor. Managers and mentors do not have mentors.
 4. A PBR record will have a reference to an employee, the date of the week for the record, and a breakdown of the 40 hours that the employee worked during the week, split into four parts: client, bravo, zero, and admin.
 
-A controller object, NRDDataController, has been provided with two methods stubbed out for you to complete. The first, parseInitialDataWithCompletionBlock, should operate on the initialSampleData.json file to populate the database. The second, parseUpdateDataWithCompletionBlock, will use the updateSampleData.json file to update the already populated database.
+A controller object, NRDDataController, has been provided with two methods stubbed out for you to complete. The first, parseInitialDataWithCompletionBlock, should operate on the initialSampleData.json file to populate the database. The second, parseUpdateDataWithCompletionBlock, will use the updateSampleData.json file to update the already populated database. The elapsed time to run each of these methods will be displayed in the app upon their completion.
+
+Some notes:
+
+- The database will be cleared on app startup.
+- Don't time anything on the simulator and hope to get meaningful results.
