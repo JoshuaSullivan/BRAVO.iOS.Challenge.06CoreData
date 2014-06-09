@@ -72,7 +72,7 @@
 		21F99C5B191AE562008D5B56 /* NRDAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NRDAppDelegate.h; sourceTree = "<group>"; };
 		21F99C5C191AE562008D5B56 /* NRDAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NRDAppDelegate.m; sourceTree = "<group>"; };
 		21F99C5F191AE562008D5B56 /* BRAVO_iOS_Challenge_06CoreData.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = BRAVO_iOS_Challenge_06CoreData.xcdatamodel; sourceTree = "<group>"; };
-		21F99C61191AE562008D5B56 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		21F99C61191AE562008D5B56 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = ../Images.xcassets; sourceTree = "<group>"; };
 		21F99C67191AE562008D5B56 /* BRAVO.iOS.Challenge.06CoreDataTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BRAVO.iOS.Challenge.06CoreDataTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		21F99C68191AE562008D5B56 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		21F99C71191AE562008D5B56 /* BRAVO.iOS.Challenge.06CoreDataTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BRAVO.iOS.Challenge.06CoreDataTests-Info.plist"; sourceTree = "<group>"; };
@@ -164,8 +164,6 @@
 			children = (
 				21F99C5B191AE562008D5B56 /* NRDAppDelegate.h */,
 				21F99C5C191AE562008D5B56 /* NRDAppDelegate.m */,
-				21F99C61191AE562008D5B56 /* Images.xcassets */,
-				21F99C5E191AE562008D5B56 /* BRAVO_iOS_Challenge_06CoreData.xcdatamodeld */,
 				21F99C53191AE562008D5B56 /* Supporting Files */,
 				B4FFA736C0CB475AB887E08D /* Categories */,
 				21F99C87191C1C5F008D5B56 /* Managers */,
@@ -254,6 +252,7 @@
 		9DFD803C5D794CD5ADB63B22 /* Data */ = {
 			isa = PBXGroup;
 			children = (
+				21F99C5E191AE562008D5B56 /* BRAVO_iOS_Challenge_06CoreData.xcdatamodeld */,
 				21A29012192A5D840038977D /* updateSampleData.json */,
 				21F99C93191D4BFA008D5B56 /* initialSampleData.json */,
 			);
@@ -266,6 +265,7 @@
 				E7CD4CAB587F44369C4A273B /* Fonts */,
 				9DFD803C5D794CD5ADB63B22 /* Data */,
 				CD469B6D0128481A81FFCF2F /* Images */,
+				21F99C61191AE562008D5B56 /* Images.xcassets */,
 				19F4E1966C554AD29071ECAF /* Settings.bundle */,
 			);
 			path = Resources;
@@ -745,7 +745,8 @@
 				21F99C5F191AE562008D5B56 /* BRAVO_iOS_Challenge_06CoreData.xcdatamodel */,
 			);
 			currentVersion = 21F99C5F191AE562008D5B56 /* BRAVO_iOS_Challenge_06CoreData.xcdatamodel */;
-			path = BRAVO_iOS_Challenge_06CoreData.xcdatamodeld;
+			name = BRAVO_iOS_Challenge_06CoreData.xcdatamodeld;
+			path = ../../BRAVO_iOS_Challenge_06CoreData.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
