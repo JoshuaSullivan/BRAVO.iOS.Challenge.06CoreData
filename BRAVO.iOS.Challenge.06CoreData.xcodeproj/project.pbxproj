@@ -44,6 +44,10 @@
 		21F99C8A191C1CDB008D5B56 /* AppCoreDataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 21F99C89191C1CDB008D5B56 /* AppCoreDataManager.m */; };
 		21F99C8D191C2387008D5B56 /* NRDDataController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21F99C8C191C2387008D5B56 /* NRDDataController.m */; };
 		21F99C94191D4BFA008D5B56 /* initialSampleData.json in Resources */ = {isa = PBXBuildFile; fileRef = 21F99C93191D4BFA008D5B56 /* initialSampleData.json */; };
+		BCCD6FD1195FC0BB00E735E9 /* _Employee.m in Sources */ = {isa = PBXBuildFile; fileRef = BCCD6FC9195FC0BB00E735E9 /* _Employee.m */; };
+		BCCD6FD2195FC0BB00E735E9 /* _PBRRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = BCCD6FCB195FC0BB00E735E9 /* _PBRRecord.m */; };
+		BCCD6FD3195FC0BB00E735E9 /* Employee.m in Sources */ = {isa = PBXBuildFile; fileRef = BCCD6FCE195FC0BB00E735E9 /* Employee.m */; };
+		BCCD6FD4195FC0BB00E735E9 /* PBRRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = BCCD6FD0195FC0BB00E735E9 /* PBRRecord.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -87,6 +91,14 @@
 		21F99C8C191C2387008D5B56 /* NRDDataController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NRDDataController.m; sourceTree = "<group>"; };
 		21F99C93191D4BFA008D5B56 /* initialSampleData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = initialSampleData.json; sourceTree = "<group>"; };
 		6513153CFE76492CAF0407CE /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
+		BCCD6FC8195FC0BB00E735E9 /* _Employee.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = _Employee.h; sourceTree = "<group>"; };
+		BCCD6FC9195FC0BB00E735E9 /* _Employee.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = _Employee.m; sourceTree = "<group>"; };
+		BCCD6FCA195FC0BB00E735E9 /* _PBRRecord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = _PBRRecord.h; sourceTree = "<group>"; };
+		BCCD6FCB195FC0BB00E735E9 /* _PBRRecord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = _PBRRecord.m; sourceTree = "<group>"; };
+		BCCD6FCD195FC0BB00E735E9 /* Employee.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Employee.h; sourceTree = "<group>"; };
+		BCCD6FCE195FC0BB00E735E9 /* Employee.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Employee.m; sourceTree = "<group>"; };
+		BCCD6FCF195FC0BB00E735E9 /* PBRRecord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PBRRecord.h; sourceTree = "<group>"; };
+		BCCD6FD0195FC0BB00E735E9 /* PBRRecord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PBRRecord.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -278,6 +290,28 @@
 			path = Categories;
 			sourceTree = "<group>";
 		};
+		BCCD6FC7195FC0BB00E735E9 /* Private */ = {
+			isa = PBXGroup;
+			children = (
+				BCCD6FC8195FC0BB00E735E9 /* _Employee.h */,
+				BCCD6FC9195FC0BB00E735E9 /* _Employee.m */,
+				BCCD6FCA195FC0BB00E735E9 /* _PBRRecord.h */,
+				BCCD6FCB195FC0BB00E735E9 /* _PBRRecord.m */,
+			);
+			path = Private;
+			sourceTree = "<group>";
+		};
+		BCCD6FCC195FC0BB00E735E9 /* Public */ = {
+			isa = PBXGroup;
+			children = (
+				BCCD6FCD195FC0BB00E735E9 /* Employee.h */,
+				BCCD6FCE195FC0BB00E735E9 /* Employee.m */,
+				BCCD6FCF195FC0BB00E735E9 /* PBRRecord.h */,
+				BCCD6FD0195FC0BB00E735E9 /* PBRRecord.m */,
+			);
+			path = Public;
+			sourceTree = "<group>";
+		};
 		CD469B6D0128481A81FFCF2F /* Images */ = {
 			isa = PBXGroup;
 			children = (
@@ -295,6 +329,8 @@
 		F23304942C7D4057B299EFD7 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				BCCD6FC7195FC0BB00E735E9 /* Private */,
+				BCCD6FCC195FC0BB00E735E9 /* Public */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -425,7 +461,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "mogenerator -m BRAVO.iOS.Challenge.06CoreData/BRAVO_iOS_Challenge_06CoreData.xcdatamodeld -O BRAVO.iOS.Challenge.06CoreData/Models/Private --template-var arc=true";
+			shellScript = "export PATH=/usr/local/bin/:$PATH\nmogenerator -m BRAVO.iOS.Challenge.06CoreData/BRAVO_iOS_Challenge_06CoreData.xcdatamodeld -M BRAVO.iOS.Challenge.06CoreData/Models/Private -H BRAVO.iOS.Challenge.06CoreData/Models/Public --template-var arc=true";
 		};
 		C205B4BA198A4AFEB469F610 /* Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -479,11 +515,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				21F99C8D191C2387008D5B56 /* NRDDataController.m in Sources */,
+				BCCD6FD2195FC0BB00E735E9 /* _PBRRecord.m in Sources */,
 				21F99C8A191C1CDB008D5B56 /* AppCoreDataManager.m in Sources */,
 				21F99C60191AE562008D5B56 /* BRAVO_iOS_Challenge_06CoreData.xcdatamodeld in Sources */,
 				21F99C59191AE562008D5B56 /* main.m in Sources */,
+				BCCD6FD1195FC0BB00E735E9 /* _Employee.m in Sources */,
+				BCCD6FD3195FC0BB00E735E9 /* Employee.m in Sources */,
 				21F99C85191BC731008D5B56 /* NRDMainViewController.m in Sources */,
 				21F99C5D191AE562008D5B56 /* NRDAppDelegate.m in Sources */,
+				BCCD6FD4195FC0BB00E735E9 /* PBRRecord.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
